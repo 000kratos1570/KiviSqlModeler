@@ -4,24 +4,76 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:KiviSqlModeler"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
         mc:Ignorable="d"
-        Title="MainWindow" Height="1080" Width="1920" WindowState="Maximized">
-    <Grid>
-        <StackPanel Height="50" VerticalAlignment="Top" Orientation="Horizontal">
-            <Menu>
+        Title="MainWindow" Height="800" Width="1740" Style="{DynamicResource TheWindow}" WindowStartupLocation="CenterScreen">
+    <Grid Style="{DynamicResource MainGrid}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <!-- Системное меню -->
+        <Border Grid.ColumnSpan="2">
+            <Grid HorizontalAlignment="Stretch" MouseDown="Grid_MouseDown">
+                <TextBlock Text="KiviSqlModeler" 
+                       Style="{DynamicResource MainName}"/>
+                <!-- Кнопка закрыть -->
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,0,0,0">
+                    <!-- Кнопка развернуть -->
+                    <Button x:Name="Maximize" Content="□" 
+                            Style="{DynamicResource SystemMenuButton}"
+                            Click="Maximize_Click"/>
+                    <!-- Кнопка свернуть -->
+                    <Button x:Name="Minimize" Content="_" 
+                            Style="{DynamicResource SystemMenuButton}"
+                            Click="Minimize_Click"/>
+                    <!-- Кнопка закрыть -->
+                    <Button x:Name="Close" Content="X" 
+                            
+                            Style="{DynamicResource CloseButton}"
+                            Click="Close_Click"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+        
+        <!-- Меню инструментов -->
+        <StackPanel Height="30" VerticalAlignment="Top" Orientation="Horizontal" Grid.Column="1" Grid.Row="1">
+            <Menu Style="{DynamicResource MenuStyle}">
                 <Menu.ItemsPanel>
                     <ItemsPanelTemplate>
                         <VirtualizingStackPanel Orientation="Horizontal"/>
                     </ItemsPanelTemplate>
                 </Menu.ItemsPanel>
 
-                <MenuItem Header="Сохранить">
-
+                <MenuItem Header="Файл" Height="30" Style="{DynamicResource MenuItemStyle}">
+                    
                 </MenuItem>
-                <ComboBox>
-                    <ComboBoxItem Content="Log"/>
+
+                <MenuItem Header="схема" Height="30" Style="{DynamicResource MenuItemWithComboBoxStyle}">
+                    <MenuItem.ItemsSource>
+                        <x:Array Type="{x:Type sys:String}">
+                            <sys:String>Логическая</sys:String>
+                            <sys:String>Физическая</sys:String>
+                        </x:Array>
+                    </MenuItem.ItemsSource>
+                </MenuItem>
+                <ComboBox Style="{DynamicResource ComboBoxStyleCustom}">
+                    <ComboBoxItem Content="132123"/>
+                    <ComboBoxItem Content="09887123"/>
                 </ComboBox>
             </Menu>
         </StackPanel>
+
+        <Button x:Name="btnTree" Content="=" 
+                Grid.Row="1"
+                Width="50"
+                Height="30"
+                Style="{DynamicResource SystemMenuButton}"/>
     </Grid>
 </Window>
