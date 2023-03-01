@@ -55,7 +55,7 @@
                     
                 </MenuItem>
 
-                <MenuItem Header="схема" Height="30" Style="{DynamicResource MenuItemWithComboBoxStyle}">
+                <MenuItem Height="30" Style="{DynamicResource MenuItemWithComboBoxStyle}">
                     <MenuItem.ItemsSource>
                         <x:Array Type="{x:Type sys:String}">
                             <sys:String>Логическая</sys:String>
@@ -63,10 +63,6 @@
                         </x:Array>
                     </MenuItem.ItemsSource>
                 </MenuItem>
-                <ComboBox Style="{DynamicResource ComboBoxStyleCustom}">
-                    <ComboBoxItem Content="132123"/>
-                    <ComboBoxItem Content="09887123"/>
-                </ComboBox>
             </Menu>
         </StackPanel>
 
@@ -75,5 +71,16 @@
                 Width="50"
                 Height="30"
                 Style="{DynamicResource SystemMenuButton}"/>
+        <Grid Grid.Column="1" Grid.Row="2">
+            <Canvas Name="cnvMain" MouseDown="cnvMain_MouseDown" MouseUp="cnvMain_MouseUp" MouseMove="cnvMain_MouseMove">
+                <Canvas.ContextMenu>
+                    <ContextMenu StaysOpen="True">
+                        <MenuItem x:Name="cmAdd" Header="Добавить таблицу" Click="cmAdd_Click"/>
+                        <MenuItem x:Name="cmLine" Header="Добавить связь" Click="cmLine_Click"/>
+                    </ContextMenu>
+                </Canvas.ContextMenu>
+                
+            </Canvas>
+        </Grid>
     </Grid>
 </Window>

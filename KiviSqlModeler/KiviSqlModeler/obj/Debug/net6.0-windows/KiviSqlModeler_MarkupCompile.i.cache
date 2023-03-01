@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\timof\OneDrive\Документы\works\trpo\KiviSqlModeler\KiviSqlModeler\App.xaml
-2554038529
+3292818227
 
-5-1376862854
+81232848977
 194101785492
-MainWindow.xaml;Styles\Dark.xaml;
+MainWindow.xaml;Styles\Dark.xaml;UserControl\Table.xaml;
 
-True
+False
 
