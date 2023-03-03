@@ -55,5 +55,30 @@ namespace KiviSqlModeler
             }
             this.DragMove();
         }
+
+        private void cnvMain_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+
+        }
+
+        private void cnvMain_MouseUp(object sender, MouseButtonEventArgs e)
+        {
+
+        }
+
+        private void cnvMain_MouseMove(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void cmAdd_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void cmLine_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
