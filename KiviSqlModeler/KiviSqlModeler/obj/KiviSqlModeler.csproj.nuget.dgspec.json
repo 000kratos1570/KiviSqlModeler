@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\timof\\OneDrive\\Документы\\works\\trpo\\KiviSqlModeler\\KiviSqlModeler\\KiviSqlModeler.csproj": {}
+    "D:\\Практические и лекции\\ТРПО - Технология разработки програмного обеспечения\\Шимбирёв\\KiviSqlModeler\\KiviSqlModeler\\KiviSqlModeler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\timof\\OneDrive\\Документы\\works\\trpo\\KiviSqlModeler\\KiviSqlModeler\\KiviSqlModeler.csproj": {
+    "D:\\Практические и лекции\\ТРПО - Технология разработки програмного обеспечения\\Шимбирёв\\KiviSqlModeler\\KiviSqlModeler\\KiviSqlModeler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\timof\\OneDrive\\Документы\\works\\trpo\\KiviSqlModeler\\KiviSqlModeler\\KiviSqlModeler.csproj",
+        "projectUniqueName": "D:\\Практические и лекции\\ТРПО - Технология разработки програмного обеспечения\\Шимбирёв\\KiviSqlModeler\\KiviSqlModeler\\KiviSqlModeler.csproj",
         "projectName": "KiviSqlModeler",
-        "projectPath": "C:\\Users\\timof\\OneDrive\\Документы\\works\\trpo\\KiviSqlModeler\\KiviSqlModeler\\KiviSqlModeler.csproj",
+        "projectPath": "D:\\Практические и лекции\\ТРПО - Технология разработки програмного обеспечения\\Шимбирёв\\KiviSqlModeler\\KiviSqlModeler\\KiviSqlModeler.csproj",
         "packagesPath": "C:\\Users\\timof\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\timof\\OneDrive\\Документы\\works\\trpo\\KiviSqlModeler\\KiviSqlModeler\\obj\\",
+        "outputPath": "D:\\Практические и лекции\\ТРПО - Технология разработки програмного обеспечения\\Шимбирёв\\KiviSqlModeler\\KiviSqlModeler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

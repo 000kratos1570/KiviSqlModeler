@@ -55,7 +55,7 @@
                     
                 </MenuItem>
 
-                <MenuItem Header="схема" Height="30" Style="{DynamicResource MenuItemWithComboBoxStyle}">
+                <MenuItem Height="30" Style="{DynamicResource MenuItemWithComboBoxStyle}">
                     <MenuItem.ItemsSource>
                         <x:Array Type="{x:Type sys:String}">
                             <sys:String>Логическая</sys:String>
@@ -63,10 +63,6 @@
                         </x:Array>
                     </MenuItem.ItemsSource>
                 </MenuItem>
-                <ComboBox Style="{DynamicResource ComboBoxStyleCustom}">
-                    <ComboBoxItem Content="132123"/>
-                    <ComboBoxItem Content="09887123"/>
-                </ComboBox>
             </Menu>
         </StackPanel>
 
@@ -75,5 +71,8 @@
                 Width="50"
                 Height="30"
                 Style="{DynamicResource SystemMenuButton}"/>
+        <Grid Grid.Row="2" Grid.Column="1">
+            
+        </Grid>
     </Grid>
 </Window>
