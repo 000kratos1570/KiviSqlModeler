@@ -9,6 +9,7 @@ namespace KiviSqlModeler.Model
     public class Column
     {
         public enum PKFK { pk, fk};
+
         public string name {  get; set; }
         public string type {  get; set; }
         public string? pkfk { get; set; }

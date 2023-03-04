@@ -71,21 +71,19 @@
                 Width="50"
                 Height="30"
                 Style="{DynamicResource SystemMenuButton}"/>
-<<<<<<< HEAD
         <Grid Grid.Row="2" Grid.Column="1">
-            
-=======
-        <Grid Grid.Column="1" Grid.Row="2">
-            <Canvas Name="cnvMain" MouseDown="cnvMain_MouseDown" MouseUp="cnvMain_MouseUp" MouseMove="cnvMain_MouseMove">
-                <Canvas.ContextMenu>
-                    <ContextMenu StaysOpen="True">
-                        <MenuItem x:Name="cmAdd" Header="Добавить таблицу" Click="cmAdd_Click"/>
-                        <MenuItem x:Name="cmLine" Header="Добавить связь" Click="cmLine_Click"/>
-                    </ContextMenu>
-                </Canvas.ContextMenu>
-                
-            </Canvas>
->>>>>>> 8692b96ca5b3f33fad4c2a2f87453143d195ea88
+
+            <Grid Grid.Column="1" Grid.Row="2">
+                <Canvas Name="cnvMain" MouseDown="cnvMain_MouseDown" MouseUp="cnvMain_MouseUp" MouseMove="cnvMain_MouseMove">
+                    <Canvas.ContextMenu>
+                        <ContextMenu StaysOpen="True">
+                            <MenuItem x:Name="cmAdd" Header="Добавить таблицу" Click="cmAdd_Click"/>
+                            <MenuItem x:Name="cmLine" Header="Добавить связь" Click="cmLine_Click"/>
+                        </ContextMenu>
+                    </Canvas.ContextMenu>
+
+                </Canvas>
+            </Grid>
         </Grid>
     </Grid>
 </Window>

@@ -9,18 +9,27 @@
     <DockPanel>
         <TextBlock Name="tableName" DockPanel.Dock="Top" TextAlignment="Left" Text="Таблица1"/>
         <Grid>
-            <Grid.RowDefinitions>
-                <RowDefinition Height="*"/>
-                <RowDefinition Height="*"/>
-            </Grid.RowDefinitions>
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="3*"/>
-                <ColumnDefinition Width="3*"/>
-                <ColumnDefinition Width="1*"/>
-            </Grid.ColumnDefinitions>
+            <Border BorderThickness="1" BorderBrush="Black">
+                <Grid Grid.Column="3" Grid.Row="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="1*"/>
+                    </Grid.ColumnDefinitions>
 
-            <Border Grid.ColumnSpan="3" Grid.RowSpan="2" BorderThickness="1" BorderBrush="Black">
-                <Separator Margin="3, 20" Background="Black" Height="1"/>
+                    <TextBox x:Name="tbPrimaryKey" Text="PrimaryKey" Background="Transparent"/>
+                    <TextBox x:Name="tBType" Grid.Column="1" Text="Type" Background="Transparent"/>
+                    <TextBox x:Name="tpKey" Grid.Column="2" Text="Key" Background="Transparent"/>
+
+                    <ListView x:Name="tbColumn" Grid.Row="1" Background="Transparent"/>
+                    <ListView x:Name="tBType2" Grid.Row="1" Grid.Column="1" Background="Transparent"/>
+                    <ListView x:Name="tpKey2" Grid.Row="1" Grid.Column="2" Background="Transparent"/>
+                    <Separator Margin="3, 20" Background="Black" Height="1"/>
+                </Grid>
             </Border>
         </Grid>
     </DockPanel>

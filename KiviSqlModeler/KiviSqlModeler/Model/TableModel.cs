@@ -13,39 +13,30 @@ namespace KiviSqlModeler.Model
         public string Name { get; set; }
 
         // первичный ключ
-        public Column? pk { get; set; }
+        public Column pk { get; set; }
 
         // коллекция столбцев
         private ObservableCollection<Column>? Columns;
 
         // коллекция связей
-        private ObservableCollection<Column>? FK;
         private ObservableCollection<TableModel>? FKTable;
 
         public void AddFKTo(TableModel tableModel)
         {
-            if (FK == null) 
-            {  
-                FK = new ObservableCollection<Column>();
-            }
             if (FKTable == null)
             {
                 FKTable = new ObservableCollection<TableModel>();
             }
-            if (tableModel.FK == null)
+            if (tableModel.pk == null)
             {
                 throw new Exception("Первичный ключ не указан");
             }
-            FK.Add(new Column(tableModel.pk.name, tableModel.pk.type, Column.PKFK.fk));
+            Columns.Add(new Column(tableModel.pk.name, tableModel.pk.type, Column.PKFK.fk));
             FKTable.Add(tableModel);
         }
 
         public void RemoveFKTo(TableModel tableModel)
         {
-            if (FK == null)
-            {
-                throw new Exception("Таблица не содержит связи");
-            }
             if (FKTable == null)
             {
                 throw new Exception("Таблица не содержит связи");
@@ -54,7 +45,7 @@ namespace KiviSqlModeler.Model
             {
                 throw new Exception("Таблица не содержит указанную связь для удаленя");
             }
-            FK.Remove(new Column(tableModel.pk.name, tableModel.pk.type, Column.PKFK.fk));
+            Columns.Remove(new Column(tableModel.pk.name, tableModel.pk.type, Column.PKFK.fk));
             FKTable.Remove(tableModel);
         }
 
