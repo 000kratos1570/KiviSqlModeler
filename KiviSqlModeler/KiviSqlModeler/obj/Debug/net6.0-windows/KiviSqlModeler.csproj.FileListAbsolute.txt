@@ -42,3 +42,6 @@ C:\Users\timof\OneDrive\Документы\works\trpo\KiviSqlModeler\KiviSqlMode
 C:\Users\timof\OneDrive\Документы\works\trpo\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\ref\KiviSqlModeler.dll
 C:\Users\timof\OneDrive\Документы\works\trpo\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\Styles\Dark.baml
 C:\Users\timof\OneDrive\Документы\works\trpo\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\App.baml
+C:\Users\timof\OneDrive\Документы\works\trpo\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\MyUserControl\Table.g.cs
+C:\Users\timof\OneDrive\Документы\works\trpo\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\MyUserControl\Table.baml
+C:\Users\timof\OneDrive\Документы\works\trpo\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs

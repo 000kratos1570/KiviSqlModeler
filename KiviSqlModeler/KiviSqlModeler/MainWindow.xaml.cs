@@ -1,4 +1,5 @@
-﻿using System;
+﻿using KiviSqlModeler.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,10 +21,21 @@ namespace KiviSqlModeler
     /// </summary>
     public partial class MainWindow : Window
     {
+        
+
         public MainWindow()
         {
             InitializeComponent();
             this.MaxHeight = SystemParameters.MaximizedPrimaryScreenHeight;
+
+            var rt = new TableModel(1, "aboba");
+            rt.Columns.Add(new Column("строка1", "string"));
+            rt.Columns.Add(new Column("строка2", "int"));
+            rt.pk = new Column("primary key", "int", Column.PKFK.pk);
+
+            myTable.NameTable = rt.Name;
+            myTable.Pk = rt.pk;
+            myTable.Columns = rt.Columns; 
         }
 
         private void Maximize_Click(object sender, RoutedEventArgs e)

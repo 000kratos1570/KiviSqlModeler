@@ -18,6 +18,7 @@ namespace KiviSqlModeler.Model
         {
             this.name = name;
             this.type = type;
+            pkfk = null;
         }
 
         public Column(string name, string type, PKFK value)

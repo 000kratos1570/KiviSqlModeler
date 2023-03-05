@@ -16,7 +16,7 @@ namespace KiviSqlModeler.Model
         public Column pk { get; set; }
 
         // коллекция столбцев
-        private ObservableCollection<Column>? Columns;
+        public ObservableCollection<Column> Columns = new ObservableCollection<Column>();
 
         // коллекция связей
         private ObservableCollection<TableModel>? FKTable;

@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:KiviSqlModeler"
         xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:uc="clr-namespace:KiviSqlModeler.MyUserControl"
         mc:Ignorable="d"
         Title="MainWindow" Height="800" Width="1740" Style="{DynamicResource TheWindow}" WindowStartupLocation="CenterScreen">
     <Grid Style="{DynamicResource MainGrid}">
@@ -81,6 +82,8 @@
                             <MenuItem x:Name="cmLine" Header="Добавить связь" Click="cmLine_Click"/>
                         </ContextMenu>
                     </Canvas.ContextMenu>
+
+                    <uc:Table x:Name="myTable" />
 
                 </Canvas>
             </Grid>

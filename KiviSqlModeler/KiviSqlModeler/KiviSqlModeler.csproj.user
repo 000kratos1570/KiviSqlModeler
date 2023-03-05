@@ -7,7 +7,7 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="UserControl\Table.xaml.cs">
+    <Compile Update="MyUserControl\Table.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -15,10 +15,10 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Styles\Dark.xaml">
+    <Page Update="MyUserControl\Table.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="UserControl\Table.xaml">
+    <Page Update="Styles\Dark.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
