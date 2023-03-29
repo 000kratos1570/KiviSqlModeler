@@ -30,8 +30,9 @@
                 Margin="10,0,0,0">
                 <ui:SymbolIcon Symbol="TableAdd28"/>
             </Button>
+
             <Button
-            Name="btnAddRow"
+                Name="btnAddRow"
                 Click="btnAddRow_Click"
                 Padding="0" 
                 Height="25" 
@@ -39,6 +40,16 @@
                 Margin="10,0,0,0">
                 <ui:SymbolIcon Symbol="ArrowBetweenUp20"/>
             </Button>
+
+            <ComboBox Name="cbModel"
+                    SelectedIndex="0" 
+                    Margin="10,0,0,0"
+                    Height="25"
+                    Padding="6,1"
+                    SelectionChanged="cbModel_SelectionChanged">
+                <ComboBoxItem Content="Логическая"/>
+                <ComboBoxItem Content="Физическая"/>
+            </ComboBox>
         </StackPanel>
         
         <Grid Grid.Row="1" Name="GridEditPanel">
@@ -47,7 +58,9 @@
                 <ColumnDefinition Width="auto"/>
                 <ColumnDefinition Width="2*" MinWidth="150"/>
             </Grid.ColumnDefinitions>
-            <ScrollViewer CanContentScroll="False">
+            <ScrollViewer CanContentScroll="False"
+                          VerticalScrollBarVisibility="Disabled"
+                          HorizontalScrollBarVisibility="Disabled">
                 <Canvas x:Name="EditPanel" AllowDrop="True"
                         MouseDown="EditPanel_MouseDown"
                         MouseMove="EditPanel_MouseMove"
@@ -68,117 +81,99 @@
                     Width="auto"
                     BorderThickness="1,0,0,0"
                     BorderBrush="{DynamicResource TextFillColorPrimaryBrush}">
-                <ScrollViewer HorizontalScrollBarVisibility="Auto"
-                              VerticalScrollBarVisibility="Disabled">
-                    <Grid MinWidth="215"
-                          PreviewMouseWheel="Grid_PreviewMouseWheel">
-                        <ScrollViewer  Margin="10,0,10,60"
-                                       VerticalScrollBarVisibility="Auto">
-                            <Grid>
-                                <Label Content="Название таблицы"
-                                    HorizontalAlignment="Center"
-                                    VerticalAlignment="Top"
-                                    Margin="10"/>
+                <Grid>
+                    <ScrollViewer  Margin="10,0,10,60"
+                                    VerticalScrollBarVisibility="Auto"
+                                    HorizontalScrollBarVisibility="Auto"
+                                   PreviewMouseWheel="Grid_PreviewMouseWheel">
+                        <Grid MinWidth="215">
+                            <Label Content="Название таблицы"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Top"
+                            Margin="10"/>
 
-                                <ui:TextBox Name="tbTableName"
-                                   VerticalAlignment="Top"
-                                   Margin="0,40,0,0"/>
+                            <ui:TextBox Name="tbTableName"
+                            VerticalAlignment="Top"
+                            Margin="0,40,0,0"/>
 
-                                <Rectangle Height="0.8"
-                                   VerticalAlignment="Top"
-                                   Margin="0,90,0,0"
-                                   Fill="{DynamicResource TextFillColorPrimaryBrush}"/>
+                            <Rectangle Height="0.8"
+                            VerticalAlignment="Top"
+                            Margin="0,90,0,0"
+                            Fill="{DynamicResource TextFillColorPrimaryBrush}"/>
 
-                                <!--<ListBox x:Name="listColumn"
-                                   Margin="0,100,0,0">
-                                    <ListBox.ItemTemplate>
-                                        <DataTemplate>
-                                            <Grid>
-                                                <Grid.ColumnDefinitions>
-                                                    <ColumnDefinition Width="*" />
-                                                    <ColumnDefinition Width="100" />
-                                                </Grid.ColumnDefinitions>
-                                                <TextBlock Text="{Binding Title}" />
-                                            </Grid>
-                                        </DataTemplate>
-                                    </ListBox.ItemTemplate>
-                                </ListBox>-->
-                                
-                                <Label Content="Атрибут"
-                                   HorizontalAlignment="Center"
-                                   VerticalAlignment="Top"
-                                   Margin="0,100,0,0"/>
+                            <Label Content="Атрибут"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Top"
+                            Margin="0,100,0,0"/>
 
-                                <Button x:Name="btnAddColumn" Content="+"
-                                   HorizontalAlignment="Center"
-                                   VerticalAlignment="Top"
-                                   Margin="90,98,0,0" 
-                                   BorderBrush="Transparent" 
-                                   Padding="5.5,0,5.5,2" Click="btnAddColumn_Click"/>
+                            <Button x:Name="btnAddColumn" Content="+"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Top"
+                            Margin="90,98,0,0" 
+                            BorderBrush="Transparent" 
+                            Padding="5.5,0,5.5,2" Click="btnAddColumn_Click"/>
 
-                                <Button x:Name="btnNextColumn" Content=">"
-                                   HorizontalAlignment="Center"
-                                   VerticalAlignment="Top"
-                                   Margin="145,98,0,0" 
-                                   BorderBrush="Transparent" 
-                                   Padding="5.5,0,5.5,2" Click="btnNextColumn_Click"/>
+                            <Button x:Name="btnNextColumn" Content=">"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Top"
+                            Margin="145,98,0,0" 
+                            BorderBrush="Transparent" 
+                            Padding="5.5,0,5.5,2" Click="btnNextColumn_Click"/>
 
-                                <Button x:Name="btnRemoveColumn" Content="-"
-                                   HorizontalAlignment="Center"
-                                   VerticalAlignment="Top"
-                                   Margin="0,98,90,0" 
-                                   BorderBrush="Transparent"
-                                   Padding="7,0,7,2" Click="btnRemoveColumn_Click"/>
+                            <Button x:Name="btnRemoveColumn" Content="-"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Top"
+                            Margin="0,98,90,0" 
+                            BorderBrush="Transparent"
+                            Padding="7,0,7,2" Click="btnRemoveColumn_Click"/>
 
-                                <Button x:Name="btnPreviousColumn" Content="&lt;"
-                                   HorizontalAlignment="Center"
-                                   VerticalAlignment="Top"
-                                   Margin="0,98,145,0" 
-                                   BorderBrush="Transparent"
-                                   Padding="5.5,0,5.5,2" Click="btnPreviousColumn_Click"/>
+                            <Button x:Name="btnPreviousColumn" Content="&lt;"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Top"
+                            Margin="0,98,145,0" 
+                            BorderBrush="Transparent"
+                            Padding="5.5,0,5.5,2" Click="btnPreviousColumn_Click"/>
 
-                                <ui:TextBox Name="tbColumnName"
-                                    VerticalAlignment="Top"
-                                    Margin="0,130,0,0"/>
+                            <ui:TextBox Name="tbColumnName"
+                            VerticalAlignment="Top"
+                            Margin="0,130,0,0"/>
 
-                                <Label Content="Тип"
-                                   HorizontalAlignment="Center"
-                                   VerticalAlignment="Top"
-                                   Margin="0,180,0,0"/>
+                            <Label Content="Тип"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Top"
+                            Margin="0,180,0,0"/>
 
-                                <ui:TextBox Name="tbColumnType"
-                                    VerticalAlignment="Top"
-                                    Margin="0,210,0,0"/>
+                            <ui:TextBox Name="tbColumnType"
+                            VerticalAlignment="Top"
+                            Margin="0,210,0,0"/>
 
-                                <CheckBox x:Name="cbPK"
-                                  Content="ПК"
-                                  HorizontalAlignment="Left"
-                                  VerticalAlignment="Top"
-                                  Margin="10,260,0,0"/>
+                            <CheckBox x:Name="cbPK"
+                            Content="ПК"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Top"
+                            Margin="10,260,0,0"/>
 
-                                <CheckBox x:Name="cbIsNull"
-                                  Content="IsNull"
-                                  HorizontalAlignment="Right"
-                                  VerticalAlignment="Top"
-                                  Margin="0,260,10,0"/>
+                            <CheckBox x:Name="cbIsNull"
+                            Content="IsNull"
+                            HorizontalAlignment="Right"
+                            VerticalAlignment="Top"
+                            Margin="0,260,10,0"/>
 
-                            </Grid>
-                        </ScrollViewer>
-                        
-                        
-                        <Button x:Name="btnSaveTable" 
+                        </Grid>
+                    </ScrollViewer>
+
+                    <Button x:Name="btnSaveTable" 
                         Content="Сохранить"
                         HorizontalAlignment="Left"
                         VerticalAlignment="Bottom"
                         Margin="20,0,0,20" Click="btnSaveTable_Click"/>
-                        
-                        <Button x:Name="btnCloseTable" 
+
+                    <Button x:Name="btnCloseTable" 
                         Content="Закрыть"
                         HorizontalAlignment="Right"
                         VerticalAlignment="Bottom"
                         Margin="0,0,20,20" Click="btnCloseTable_Click"/>
-                    </Grid>
-                </ScrollViewer>
+                </Grid>
             </Border>
         </Grid>
     </Grid>

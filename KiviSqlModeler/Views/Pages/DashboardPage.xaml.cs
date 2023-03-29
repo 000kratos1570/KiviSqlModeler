@@ -1,5 +1,6 @@
 ﻿using KiviSqlModeler.Models;
 using KiviSqlModeler.Views.UserControlers;
+using Microsoft.VisualBasic;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -11,6 +12,7 @@ using System.Net.NetworkInformation;
 using System.Reflection;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Controls.Primitives;
 using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
@@ -30,14 +32,15 @@ namespace KiviSqlModeler.Views.Pages
     {
         private ObservableCollection<TableModel> LogTable = new ObservableCollection<TableModel>();
         private ObservableCollection<TableModel> PhyTable = new ObservableCollection<TableModel>();
+        private ObservableCollection<ConnectionModel> connections = new ObservableCollection<ConnectionModel>();
 
         public DashboardPage()
         {
             InitializeComponent();
-
             HideProperies();
         }
 
+        #region MenuData
         /// <summary>
         /// Скрыть меню заполнения данных
         /// </summary>
@@ -68,17 +71,100 @@ namespace KiviSqlModeler.Views.Pages
         /// <param name="e"></param>
         private void Grid_PreviewMouseWheel(object sender, System.Windows.Input.MouseWheelEventArgs e)
         {
-            if (Keyboard.Modifiers.HasFlag(ModifierKeys.Shift))
+            if (Keyboard.IsKeyDown(Key.LeftShift) || Keyboard.IsKeyDown(Key.RightShift))
             {
-                ScrollViewer scroll =
-                (sender as Grid).Parent as ScrollViewer;
-
-                if (e.Delta < 0)
-                    scroll.LineRight();
-                else
-                    scroll.LineLeft();
+                e.Handled = true;
+                ScrollViewer scrollViewer = (ScrollViewer)sender;
+                scrollViewer.ScrollToHorizontalOffset(scrollViewer.HorizontalOffset - e.Delta);
             }
         }
+        
+        /// <summary>
+        /// Кнопка закрытия меню данных
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void btnCloseTable_Click(object sender, RoutedEventArgs e)
+        {
+            HideProperies();
+        }
+
+        /// <summary>
+        /// Удаления столбца из выбранной таблицы
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void btnRemoveColumn_Click(object sender, RoutedEventArgs e)
+        {
+            if (selectedColumn != -1)
+            {
+                LogTable[selectedTable].Columns.RemoveAt(selectedColumn);
+                PhyTable[selectedTable].Columns.RemoveAt(selectedColumn);
+
+                selectedColumn--;
+                if (LogTable[selectedTable].Columns.Count != 0 && selectedColumn == -1)
+                    selectedColumn++;
+
+                RedrowTable(selectedTable, selectedCanvasElement);
+            }
+        }
+
+        /// <summary>
+        /// Добавление столбца в выбранную таблицу
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void btnAddColumn_Click(object sender, RoutedEventArgs e)
+        {
+            LogTable[selectedTable].Columns.Add(new ColumnModel("column"));
+            PhyTable[selectedTable].Columns.Add(new ColumnModel("column"));
+
+            selectedColumn = LogTable[selectedTable].Columns.Count - 1;
+            SelectedColumn(GetModel()[selectedTable].Columns[selectedColumn]);
+
+            RedrowTable(selectedTable,selectedCanvasElement);
+        }
+
+        /// <summary>
+        /// Заполнения меню данных предыдущим столбце
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void btnPreviousColumn_Click(object sender, RoutedEventArgs e)
+        {
+            selectedColumn = selectedColumn == 0 ? GetModel()[selectedTable].Columns.Count - 1 : selectedColumn - 1;
+            SelectedColumn(GetModel()[selectedTable].Columns[selectedColumn]);
+        }
+
+        /// <summary>
+        /// Заполнения меню данных следующим столбце
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void btnNextColumn_Click(object sender, RoutedEventArgs e)
+        {
+            selectedColumn = selectedColumn == LogTable[selectedTable].Columns.Count - 1 ? 0 : selectedColumn + 1;
+            SelectedColumn(GetModel()[selectedTable].Columns[selectedColumn]);
+        }
+
+        /// <summary>
+        /// Сохраняет изменения таблица (названия и выбранного столбца)
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void btnSaveTable_Click(object sender, RoutedEventArgs e)
+        {
+            GetModel()[selectedTable].Name = tbTableName.Text.Trim();
+            GetModel()[selectedTable].Columns[selectedColumn].Name = tbColumnName.Text.Trim();
+            GetModel()[selectedTable].Columns[selectedColumn].Type = tbColumnType.Text.Trim();
+            GetModel()[selectedTable].Columns[selectedColumn].Pkfk = cbPK.IsChecked == true ? ColumnModel.PKFK.pk : ColumnModel.PKFK.none;
+            GetModel()[selectedTable].Columns[selectedColumn].IsNull = cbIsNull.IsChecked == true ? ColumnModel.isNull.Null : ColumnModel.isNull.NotNull;
+
+            RedrowTable(selectedTable,selectedCanvasElement);
+
+        }
+
+        #endregion MenuData
 
         /// <summary>
         /// Кнопка добавления таблицы
@@ -88,9 +174,7 @@ namespace KiviSqlModeler.Views.Pages
         private void btnAddTable_Click(object sender, RoutedEventArgs e)
         {
             TableModel tableModel = new TableModel("table" + LogTable.Count);
-            tableModel.Columns.Add(new ColumnModel("column","aboba" + LogTable.Count));
-            tableModel.Columns.Add(new ColumnModel("column2","aboba" + LogTable.Count));
-            tableModel.Columns.Add(new ColumnModel("column3","aboba" + LogTable.Count));
+            tableModel.Columns.Add(new ColumnModel("column",""));
             int x = 10;
             int y = 10;
             foreach (var tab in LogTable)
@@ -106,38 +190,74 @@ namespace KiviSqlModeler.Views.Pages
             tableModel.Top = y;
             tableModel.Left = x;
 
-            TableUC myTable = GetTableUC(tableModel);
-            EditPanel.Children.Add(myTable);
-
             LogTable.Add(tableModel);
             TableModel phyTableModel = new TableModel(tableModel.Name);
             foreach (var column in tableModel.Columns)
             {
-                phyTableModel.Columns.Add(new ColumnModel(column.Name, column.Type, column.Pkfk, column.IsNull));
+                phyTableModel.Columns.Add(new ColumnModel(column.Name, column.Type, column.IsNull, column.Pkfk));
             }
 
             phyTableModel.Top = tableModel.Top;
             phyTableModel.Left = tableModel.Left;
             PhyTable.Add(phyTableModel);
+
+            TableUC myTable = GetTableUC(cbModel.SelectedIndex == 0? tableModel: phyTableModel);
+            EditPanel.Children.Add(myTable);
         }
 
+        private void btnAddRow_Click(object sender, RoutedEventArgs e)
+        {
+            isAddArrow = !isAddArrow;
+            if (isAddArrow)
+            {
+                btnAddRow.BorderBrush = Application.Current.FindResource("TextFillColorPrimaryBrush") as SolidColorBrush;
+            }
+            else
+            {
+                btnAddRow.BorderBrush = new SolidColorBrush(Color.FromArgb(0x12, 0xFF, 0xFF, 0xFF));
+            }
+        }
+
+
+        private void cbModel_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if (EditPanel == null) return;
+            foreach(var table in EditPanel.Children.OfType<TableUC>().ToList())
+            {
+                int selectedCanvasElement = EditPanel.Children.IndexOf(table);
+                int selectedTable = EditPanel.Children.OfType<TableUC>().ToList().IndexOf(table);
+                EditPanel.Children.RemoveAt(selectedCanvasElement);
+                TableUC myTable = GetTableUC(GetModel()[selectedTable]);
+                EditPanel.Children.Insert(selectedCanvasElement, myTable);
+            }
+            selectedCanvasElement = -1;
+            selectedColumn = -1;
+            selectedTable = -1;
+            HideProperies();
+        }
+
+        #region TableControl
+
         public int selectedTable;
+        public int selectedCanvasElement;
         public int selectedColumn;
 
-        //private void DGSelectionChanged(object sender, SelectionChangedEventArgs e)
-        //{
-        //    if (selectedTable == LogTable.IndexOf((sender as System.Windows.Controls.DataGrid).DataContext as TableModel))
-        //    {
-        //        var dataRowView = (ColumnModel)(sender as System.Windows.Controls.DataGrid).SelectedItem;
-        //        if (dataRowView != null)
-        //        {
-        //            tbColumnName.Text = dataRowView.Name;
-        //            tbColumnType.Text = dataRowView.Type;
-        //            cbIsNull.IsChecked = dataRowView.IsNull == ColumnModel.isNull.Null ? true : false;
-        //            cbPK.IsChecked = dataRowView.Pkfk == ColumnModel.PKFK.pk ? true : false;
-        //        }
-        //    }
-        //}
+        public ObservableCollection<TableModel> GetModel()
+        {
+            if (cbModel.SelectedIndex == 0)
+            {
+                return LogTable;
+            } 
+            else
+            {
+                return PhyTable;
+            }
+        }
+
+        public int GetTableIndex(object sender)
+        {
+            return EditPanel.Children.OfType<TableUC>().ToList().IndexOf((TableUC)sender);
+        }
 
         /// <summary>
         /// Заполнение меню данных выбранной таблицой
@@ -147,9 +267,9 @@ namespace KiviSqlModeler.Views.Pages
         private void MyTable_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
             VisibleProperies();
-            int index = EditPanel.Children.IndexOf((TableUC)sender);
-            SelectedTable(index);
-            SelectedColumn(LogTable[index].Columns[0]);
+            int index = GetTableIndex(sender);
+            SelectedTable(index, EditPanel.Children.IndexOf((TableUC)sender));
+            SelectedColumn(GetModel()[index].Columns[0]);
             selectedColumn = 0;
         }
 
@@ -169,11 +289,13 @@ namespace KiviSqlModeler.Views.Pages
         /// Заполняет выбранную таблицу в меню данных
         /// </summary>
         /// <param name="index"></param>
-        public void SelectedTable(int index)
+        public void SelectedTable(int index, int indexCanvasElement)
         {
+            selectedCanvasElement = indexCanvasElement;
             selectedTable = index;
-            tbTableName.Text = LogTable[index].Name;
+            tbTableName.Text = GetModel()[index].Name;
         }
+
 
         /// <summary>
         /// запоминание нового раположения элемента
@@ -182,20 +304,68 @@ namespace KiviSqlModeler.Views.Pages
         /// <param name="e"></param>
         private void TableUC_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
         {
-            LogTable[EditPanel.Children.IndexOf((TableUC)sender)].Left = Canvas.GetLeft((TableUC)sender);
-            LogTable[EditPanel.Children.IndexOf((TableUC)sender)].Top = Canvas.GetTop((TableUC)sender);
+            LogTable[GetTableIndex(sender)].Left = Canvas.GetLeft((TableUC)sender);
+            LogTable[GetTableIndex(sender)].Top = Canvas.GetTop((TableUC)sender);
+            PhyTable[GetTableIndex(sender)].Left = Canvas.GetLeft((TableUC)sender);
+            PhyTable[GetTableIndex(sender)].Top = Canvas.GetTop((TableUC)sender);
 
+            if (isAddArrow)
+            {
+                int indexCanvasElement = EditPanel.Children.IndexOf((TableUC)sender);
+                int index = GetTableIndex(sender);
+                int indexColumn = ((TableUC)EditPanel.Children[indexCanvasElement]).dgTable.SelectedIndex;
+                
+                if (indexColumn == -1)
+                {
+                    return;
+                }
+                else
+                {
+                    if (firstColumn == -1)
+                    {
+                        firstCanvasTable = indexCanvasElement;
+                        firstTable = index;
+                        firstColumn = indexColumn;
+                    }
+                    else if (firstCanvasTable != index)
+                    {
+                        LogTable[index].Columns.Add(new ColumnModel("column", "", ColumnModel.isNull.Null, ColumnModel.PKFK.fk));
+                        PhyTable[index].Columns.Add(new ColumnModel("column", "", ColumnModel.isNull.Null, ColumnModel.PKFK.fk));
+
+                        RedrowTable(index,indexCanvasElement);
+
+                        TableUC first = (TableUC)EditPanel.Children[firstCanvasTable];
+                        TableUC second = (TableUC)EditPanel.Children[indexCanvasElement];
+                        connections.Add(new ConnectionModel() 
+                        { 
+                            Source = first, 
+                            Destination = second,
+                            Dashed=false, 
+                            Shape = ShapeEnum.Arrow,
+                            DIndexCanvasTable = indexCanvasElement,
+                            CIndexCanvasTable = firstCanvasTable,
+                            SourceTable = GetModel()[firstTable],
+                            DestinationTable = GetModel()[index],
+                            SourceColumn = GetModel()[firstTable].Columns[firstColumn],
+                            DestinationColumn = GetModel()[index].Columns.Last(),
+                        });
+                        CreateArrowBetween();
+                        ((TableUC)EditPanel.Children[indexCanvasElement]).dgTable.SelectedIndex = -1;
+                        ((TableUC)EditPanel.Children[firstCanvasTable]).dgTable.SelectedIndex = -1;
+                        firstColumn = -1;
+                        firstCanvasTable = -1;
+                    }
+                }
+            }
         }
 
-        /// <summary>
-        /// Кнопка закрытия меню данных
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void btnCloseTable_Click(object sender, RoutedEventArgs e)
+        private void MyTable_MouseMove(object sender, MouseEventArgs e)
         {
-            HideProperies();
+            CreateArrowBetween();
         }
+
+        #endregion TableControl
+
 
         /// <summary>
         /// Создание эллемента управления
@@ -207,92 +377,40 @@ namespace KiviSqlModeler.Views.Pages
             TableUC myTable = new TableUC(tableModel);
             myTable.MouseLeftButtonUp += TableUC_MouseLeftButtonUp;
             myTable.MouseLeftButtonDown += MyTable_MouseLeftButtonDown;
+            myTable.MouseMove += MyTable_MouseMove;
+
+            myTable.MouseRightButtonDown += MyTable_MouseRightButtonDown;
             Canvas.SetTop(myTable, tableModel.Top);
             Canvas.SetLeft(myTable, tableModel.Left);
             return myTable;
         }
 
-        public void RedrowTable(int selectedTable)
+        private void MyTable_MouseRightButtonDown(object sender, MouseButtonEventArgs e)
         {
-            TableUC myTable = GetTableUC(LogTable[selectedTable]);
-            EditPanel.Children.RemoveAt(selectedTable);
-            EditPanel.Children.Insert(selectedTable, myTable);
-        }
-
-        /// <summary>
-        /// Удаления столбца из выбранной таблицы
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void btnRemoveColumn_Click(object sender, RoutedEventArgs e)
-        {
-            if (selectedColumn != -1)
+            ContextMenu contextMenu = new()
             {
-                LogTable[selectedTable].Columns.RemoveAt(selectedColumn);
-                PhyTable[selectedTable].Columns.RemoveAt(selectedColumn);
-
-                selectedColumn--;
-                if (LogTable[selectedTable].Columns.Count != 0 && selectedColumn == -1)
-                    selectedColumn++;
-
-                RedrowTable(selectedTable);
-            }
+                PlacementTarget = (TableUC)sender,
+                Placement = PlacementMode.Mouse,
+                IsOpen = true
+            };
+            Wpf.Ui.Controls.MenuItem removePath = new() { Header = "Удалить" };
+            removePath.Click += RemovePath_Click1; 
+            contextMenu.Items.Add(removePath);
         }
 
-        /// <summary>
-        /// Добавление столбца в выбранную таблицу
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void btnAddColumn_Click(object sender, RoutedEventArgs e)
+        private void RemovePath_Click1(object sender, RoutedEventArgs e)
         {
-            LogTable[selectedTable].Columns.Add(new ColumnModel("column"));
-            PhyTable[selectedTable].Columns.Add(new ColumnModel("column"));
-
-            selectedColumn = LogTable[selectedTable].Columns.Count - 1;
-            SelectedColumn(LogTable[selectedTable].Columns[selectedColumn]);
-
-            RedrowTable(selectedTable);
+            
         }
 
-        /// <summary>
-        /// Заполнения меню данных предыдущим столбце
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void btnPreviousColumn_Click(object sender, RoutedEventArgs e)
+        public void RedrowTable(int selectedTable, int selectedCanvasElement)
         {
-            selectedColumn = selectedColumn == 0 ? LogTable[selectedTable].Columns.Count - 1 : selectedColumn - 1;
-            SelectedColumn(LogTable[selectedTable].Columns[selectedColumn]);
+            TableUC myTable = GetTableUC(GetModel()[selectedTable]);
+            EditPanel.Children.RemoveAt(selectedCanvasElement);
+            EditPanel.Children.Insert(selectedCanvasElement, myTable);
         }
 
-        /// <summary>
-        /// Заполнения меню данных следующим столбце
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void btnNextColumn_Click(object sender, RoutedEventArgs e)
-        {
-            selectedColumn = selectedColumn == LogTable[selectedTable].Columns.Count - 1 ? 0 : selectedColumn + 1;
-            SelectedColumn(LogTable[selectedTable].Columns[selectedColumn]);
-        }
-
-        /// <summary>
-        /// Сохраняет изменения таблица (названия и выбранного столбца)
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void btnSaveTable_Click(object sender, RoutedEventArgs e)
-        {
-            LogTable[selectedTable].Name = tbTableName.Text.Trim();
-            LogTable[selectedTable].Columns[selectedColumn].Name = tbColumnName.Text.Trim();
-            LogTable[selectedTable].Columns[selectedColumn].Type = tbColumnType.Text.Trim();
-            LogTable[selectedTable].Columns[selectedColumn].Pkfk = cbPK.IsChecked == true ? ColumnModel.PKFK.pk : ColumnModel.PKFK.none;
-            LogTable[selectedTable].Columns[selectedColumn].IsNull = cbIsNull.IsChecked == true ? ColumnModel.isNull.Null : ColumnModel.isNull.NotNull;
-
-            RedrowTable(selectedTable);
-
-        }
+        #region Zooming and Panning
 
         private readonly MatrixTransform _transform = new MatrixTransform();
         private Point _initialMousePosition;
@@ -363,55 +481,148 @@ namespace KiviSqlModeler.Views.Pages
                 child.RenderTransform = _transform;
 
             }
+            CreateArrowBetween();
         }
 
-        private void btnAddRow_Click(object sender, RoutedEventArgs e)
+        #endregion Zooming and Panning
+
+        #region Arrow control
+
+        private int firstCanvasTable = -1;
+        private int firstTable = -1;
+        private int firstColumn = -1;
+        private bool isAddArrow = false;
+
+        private void CreateArrowBetween()
         {
-            CreateArrowBetween((TableUC)EditPanel.Children[0], (TableUC)EditPanel.Children[1], EditPanel);
+            foreach(var c in connections)
+            {
+                double halfSourceWidth = c.Source.ActualWidth / 2;
+                double halfSourceHeight = c.Source.ActualHeight / 2;
+                double halfDestinationWidth = c.Destination.ActualWidth / 2;
+                double halfDestinationHeight = c.Destination.ActualHeight / 2;
+                double SrcX = Canvas.GetLeft(c.Source) + (c.Source.ActualWidth / 2);
+                double SrcY = Canvas.GetTop(c.Source) + (c.Source.ActualHeight / 2);
+                double DstX = Canvas.GetLeft(c.Destination) + halfDestinationWidth;
+                double DstY = Canvas.GetTop(c.Destination) + halfDestinationHeight;
+                var brash = Application.Current.FindResource("TextFillColorPrimaryBrush") as SolidColorBrush;
+
+                if (c.Path is null)
+                {
+                    c.Path = SetPath();
+                    c.Path.Stroke = brash;
+                    c.Path.PreviewMouseRightButtonDown += Path_PreviewMouseRightButtonDown;
+                    EditPanel.Children.Add(c.Path);
+                }
+                if (c.ShapePath is null)
+                {
+                    c.ShapePath = SetPath();
+                    c.ShapePath.Stroke = brash;
+                    EditPanel.Children.Add(c.ShapePath);
+                }
+                c.ShapePath.Fill = brash;
+                c.Path.StrokeDashArray = c.Dashed ? new DoubleCollection() { 3, 3 } : null;
+                Point SrcP = new() { X = SrcX, Y = SrcY };
+                Point DstP = new() { X = DstX, Y = DstY };
+                double distanceX = SrcP.X - DstP.X;
+                double distanceY = SrcP.Y - DstP.Y;
+                bool sideConnections = Math.Abs(distanceY) <= Math.Max(c.Source.ActualHeight, c.Destination.ActualHeight);
+
+                Point StartPoint = new()
+                {
+                    X = SrcP.X - (sideConnections ? distanceX > 0 ? halfSourceWidth: (-halfSourceWidth): 0),
+                    Y = SrcP.Y - (sideConnections ? 0 : distanceY > 0 ? halfSourceHeight : (-halfSourceHeight))
+                };
+                Point EndPoint = new()
+                {
+                    X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth: (-halfDestinationWidth): 0),
+                    Y = DstP.Y + (sideConnections ? 0 : distanceY > 0 ? halfDestinationHeight: (-halfDestinationHeight))
+                };
+
+                double distanceX2 = StartPoint.X - EndPoint.X;
+                double distanceY2 = StartPoint.Y - EndPoint.Y;
+                bool sideConnections2 = Math.Abs(distanceY) <= Math.Max(c.Source.ActualHeight, c.Destination.ActualHeight);
+                PathFigureCollection pathFigures = new() {
+                    new PathFigure() {
+                        IsClosed = false,
+                        IsFilled = false,
+                        StartPoint = StartPoint,
+                        Segments = new() {
+                            new LineSegment { Point = new() { X = StartPoint.X - (sideConnections2 ? distanceX2 / 2 : 0), Y = StartPoint.Y - (sideConnections2 ? 0 : distanceY2 / 2) } },
+                            new LineSegment { Point = new() { X = EndPoint.X + (sideConnections2 ? distanceX2 / 2 : 0), Y = EndPoint.Y + (sideConnections2 ? 0 : distanceY2 / 2) } },
+                            new LineSegment { Point = EndPoint }
+                        }
+                    }
+                };
+                c.Path.Data = new PathGeometry() { Figures = pathFigures };
+                PathFigureCollection shapePathFigures = ShapePath(c.Shape, sideConnections, DstP, distanceX, distanceY, halfDestinationWidth, halfDestinationHeight);
+                c.ShapePath.Data = new PathGeometry() { Figures = shapePathFigures };
+            }
         }
 
-        private void CreateArrowBetween(TableUC startElement, TableUC endElemend, Panel parentContainer)
+        private Path SetPath()
         {
-            SolidColorBrush arrowBrush = Brushes.Red;
-
-            // Center the line horizontally and vertically.
-            // Get the positions of the controls that should be connected by a line.
-            Point centeredArrowStartPosition = startElement.TransformToAncestor(parentContainer)
-              .Transform(new Point(startElement.ActualWidth / 2, startElement.ActualHeight / 2));
-
-            Point centeredArrowEndPosition = endElemend.TransformToAncestor(parentContainer)
-              .Transform(new Point(endElemend.ActualWidth / 2, endElemend.ActualHeight / 2));
-
-            // Draw the line between two controls
-            var arrowLine = new Line()
+            return new Path
             {
-                Stroke = Brushes.Red,
-                StrokeThickness = 2,
-                X1 = centeredArrowStartPosition.X,
-                Y2 = centeredArrowEndPosition.Y,
-                X2 = centeredArrowEndPosition.X,
-                Y1 = centeredArrowStartPosition.Y
+                StrokeThickness = 2
             };
-            parentContainer.Children.Add(
-              arrowLine);
-
-            // Create the arrow tip of the line. The arrow has a width of 8px and a height of 8px,
-            // where the position of arrow tip and the line's end are the same
-            var arrowLineTip = new Polygon() { Fill = Brushes.Red };
-            var leftRectanglePoint = new Point(centeredArrowEndPosition.X - 4, centeredArrowEndPosition.Y + 8);
-            var rightRectanglePoint = new Point(
-              centeredArrowEndPosition.X + 4,
-              centeredArrowEndPosition.Y + 8);
-            var rectangleTipPoint = new Point(centeredArrowEndPosition.X, centeredArrowEndPosition.Y);
-            var myPointCollection = new PointCollection
-            {
-                leftRectanglePoint,
-                rightRectanglePoint,
-                rectangleTipPoint
-            };
-            arrowLineTip.Points = myPointCollection;
-            parentContainer.Children.Add(
-              arrowLineTip);
         }
+
+        private void Path_PreviewMouseRightButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            ContextMenu contextMenu = new()
+            {
+                PlacementTarget = (Path)sender,
+                Placement = PlacementMode.Mouse,
+                IsOpen = true
+            };
+            Wpf.Ui.Controls.MenuItem removePath = new() { Header = "Удалить" };
+            removePath.Click += RemovePath_Click;
+            contextMenu.Items.Add(removePath);
+        }
+
+        private static PathFigureCollection ShapePath(ShapeEnum shape, bool sideConnections, Point DstP, double distanceX, double distanceY, double halfDestinationWidth, double halfDestinationHeight)
+        {
+            return new()
+                {
+                    new PathFigure()
+                    {
+                        IsClosed = shape is ShapeEnum.Diamond or ShapeEnum.Triangle,
+                        IsFilled = true,
+                        StartPoint = new() {
+                            X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth + 5 : (-halfDestinationWidth) - 5 : 5),
+                            Y = DstP.Y + (sideConnections ? 5 : distanceY > 0 ? halfDestinationHeight + 5 : (-halfDestinationHeight) - 5)
+                        },
+                        Segments = new()
+                        {
+                            new LineSegment { Point = new() {
+                                X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth : -halfDestinationWidth : 0),
+                                Y = DstP.Y + (sideConnections ? 0 : distanceY > 0 ? halfDestinationHeight : -halfDestinationHeight) }
+                            },
+                            new LineSegment { Point = new() {
+                                X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth + 5 : (-halfDestinationWidth) - 5 : -5),
+                                Y = DstP.Y + (sideConnections ? -5 : distanceY > 0 ? halfDestinationHeight + 5 : (-halfDestinationHeight) - 5) }
+                            },
+                            shape == ShapeEnum.Diamond ? new LineSegment
+                            {
+                                Point = new() {
+                                X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth + 10 : (-halfDestinationWidth) - 10 : 0),
+                                Y = DstP.Y + (sideConnections ? 0 : distanceY > 0 ? halfDestinationHeight + 10 : (-halfDestinationHeight) - 10) }
+                            } : new LineSegment() { Point = new() {
+                                X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth + 5 : (-halfDestinationWidth) - 5 : -5),
+                                Y = DstP.Y + (sideConnections ? -5 : distanceY > 0 ? halfDestinationHeight + 5 : (-halfDestinationHeight) - 5) }
+                            }
+                        }
+                    }
+                };
+        }
+
+        private void RemovePath_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
+        #endregion Arrow control
+
     }
 }

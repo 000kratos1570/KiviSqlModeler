@@ -34,7 +34,7 @@ namespace KiviSqlModeler.Models
             IsNull = isNull;
         }
 
-        public ColumnModel(string name, string type, PKFK value, isNull isNull)
+        public ColumnModel(string name, string type, isNull isNull, PKFK value)
         {
             this.Name = name;
             this.Type = type;
