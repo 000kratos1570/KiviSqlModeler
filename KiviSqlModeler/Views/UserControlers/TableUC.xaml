@@ -23,13 +23,13 @@
                     IsReadOnly="True"
                     ItemsSource="{Binding Columns}">
             <DataGrid.Columns>
-                <DataGridTextColumn x:Name="Key" 
-                                    Binding="{Binding Pkfk}" 
+                <DataGridTextColumn x:Name="Key"
+                                    Binding="{Binding PkfkString}" 
                                     Width="auto"/>
                 <DataGridTextColumn x:Name="Name" 
                                     Binding="{Binding Name}" 
                                     Width="auto"/>
-                <DataGridTextColumn x:Name="Type" 
+                <DataGridTextColumn x:Name="Type"
                                     Binding="{Binding Type}" 
                                     Width="auto"/>
                 <DataGridTextColumn x:Name="Null" 

@@ -32,31 +32,31 @@ namespace KiviSqlModeler.ViewModels
 
         private void InitializeViewModel()
         {
-            ApplicationTitle = "WPF UI - KiviSqlModeler";
+            ApplicationTitle = "КивБД-Архитектор";
 
             NavigationItems = new ObservableCollection<INavigationControl>
             {
                 new NavigationItem()
                 {
-                    Content = "Home",
+                    Content = "Диаграмма",
                     PageTag = "dashboard",
                     Icon = SymbolRegular.Home24,
                     PageType = typeof(Views.Pages.DashboardPage)
-                },
+                }/*,
                 new NavigationItem()
                 {
                     Content = "Data",
                     PageTag = "data",
                     Icon = SymbolRegular.DataHistogram24,
                     PageType = typeof(Views.Pages.DataPage)
-                }
+                }*/
             };
 
             NavigationFooter = new ObservableCollection<INavigationControl>
             {
                 new NavigationItem()
                 {
-                    Content = "Settings",
+                    Content = "Настройки",
                     PageTag = "settings",
                     Icon = SymbolRegular.Settings24,
                     PageType = typeof(Views.Pages.SettingsPage)
@@ -67,7 +67,7 @@ namespace KiviSqlModeler.ViewModels
             {
                 new MenuItem
                 {
-                    Header = "Home",
+                    Header = "Диаграмма",
                     Tag = "tray_home"
                 }
             };

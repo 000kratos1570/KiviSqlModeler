@@ -22,10 +22,10 @@ namespace KiviSqlModeler.Models
 
         public int CIndexCanvasTable { get; set; }
         public int DIndexCanvasTable { get; set; }
-        public TableModel SourceTable { get; set; }
-        public ColumnModel SourceColumn { get; set; }
-        public TableModel DestinationTable { get; set; }
-        public ColumnModel DestinationColumn { get; set; }
+        public int SourceTable { get; set; }
+        public int SourceColumn { get; set; }
+        public int DestinationTable { get; set; }
+        public int DestinationColumn { get; set; }
     }
 
     public enum ShapeEnum

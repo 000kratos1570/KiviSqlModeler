@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Data;
 using System.Data.Common;
+using System.DirectoryServices.ActiveDirectory;
 using System.Linq;
 using System.Net.NetworkInformation;
 using System.Reflection;
@@ -78,7 +79,7 @@ namespace KiviSqlModeler.Views.Pages
                 scrollViewer.ScrollToHorizontalOffset(scrollViewer.HorizontalOffset - e.Delta);
             }
         }
-        
+
         /// <summary>
         /// Кнопка закрытия меню данных
         /// </summary>
@@ -104,6 +105,7 @@ namespace KiviSqlModeler.Views.Pages
                 selectedColumn--;
                 if (LogTable[selectedTable].Columns.Count != 0 && selectedColumn == -1)
                     selectedColumn++;
+                SelectedColumn(GetModel()[selectedTable].Columns[selectedColumn]);
 
                 RedrowTable(selectedTable, selectedCanvasElement);
             }
@@ -116,13 +118,13 @@ namespace KiviSqlModeler.Views.Pages
         /// <param name="e"></param>
         private void btnAddColumn_Click(object sender, RoutedEventArgs e)
         {
-            LogTable[selectedTable].Columns.Add(new ColumnModel("column"));
-            PhyTable[selectedTable].Columns.Add(new ColumnModel("column"));
+            LogTable[selectedTable].Columns.Add(new ColumnModel("column", ""));
+            PhyTable[selectedTable].Columns.Add(new ColumnModel("column", ""));
 
             selectedColumn = LogTable[selectedTable].Columns.Count - 1;
             SelectedColumn(GetModel()[selectedTable].Columns[selectedColumn]);
 
-            RedrowTable(selectedTable,selectedCanvasElement);
+            RedrowTable(selectedTable, selectedCanvasElement);
         }
 
         /// <summary>
@@ -157,10 +159,21 @@ namespace KiviSqlModeler.Views.Pages
             GetModel()[selectedTable].Name = tbTableName.Text.Trim();
             GetModel()[selectedTable].Columns[selectedColumn].Name = tbColumnName.Text.Trim();
             GetModel()[selectedTable].Columns[selectedColumn].Type = tbColumnType.Text.Trim();
+            if (cbPK.IsChecked == true)
+            {
+                if (GetModel()[selectedTable].Columns[selectedColumn].Pkfk == ColumnModel.PKFK.fk)
+                {
+                    GetModel()[selectedTable].Columns[selectedColumn].Pkfk = ColumnModel.PKFK.pkfk;
+                }
+                else
+                {
+                    GetModel()[selectedTable].Columns[selectedColumn].Pkfk = ColumnModel.PKFK.pk;
+                }
+            }
             GetModel()[selectedTable].Columns[selectedColumn].Pkfk = cbPK.IsChecked == true ? ColumnModel.PKFK.pk : ColumnModel.PKFK.none;
             GetModel()[selectedTable].Columns[selectedColumn].IsNull = cbIsNull.IsChecked == true ? ColumnModel.isNull.Null : ColumnModel.isNull.NotNull;
 
-            RedrowTable(selectedTable,selectedCanvasElement);
+            RedrowTable(selectedTable, selectedCanvasElement);
 
         }
 
@@ -174,7 +187,7 @@ namespace KiviSqlModeler.Views.Pages
         private void btnAddTable_Click(object sender, RoutedEventArgs e)
         {
             TableModel tableModel = new TableModel("table" + LogTable.Count);
-            tableModel.Columns.Add(new ColumnModel("column",""));
+            tableModel.Columns.Add(new ColumnModel("column", "int",ColumnModel.isNull.NotNull, ColumnModel.PKFK.pk));
             int x = 10;
             int y = 10;
             foreach (var tab in LogTable)
@@ -201,7 +214,7 @@ namespace KiviSqlModeler.Views.Pages
             phyTableModel.Left = tableModel.Left;
             PhyTable.Add(phyTableModel);
 
-            TableUC myTable = GetTableUC(cbModel.SelectedIndex == 0? tableModel: phyTableModel);
+            TableUC myTable = GetTableUC(cbModel.SelectedIndex == 0 ? tableModel : phyTableModel);
             EditPanel.Children.Add(myTable);
         }
 
@@ -214,15 +227,18 @@ namespace KiviSqlModeler.Views.Pages
             }
             else
             {
+                firstCanvasTable = -1;
+                firstColumn = -1;
+                firstTable = -1;
+                ((TableUC)EditPanel.Children[firstCanvasTable]).dgTable.SelectedIndex = -1;
                 btnAddRow.BorderBrush = new SolidColorBrush(Color.FromArgb(0x12, 0xFF, 0xFF, 0xFF));
             }
         }
 
-
         private void cbModel_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             if (EditPanel == null) return;
-            foreach(var table in EditPanel.Children.OfType<TableUC>().ToList())
+            foreach (var table in EditPanel.Children.OfType<TableUC>().ToList())
             {
                 int selectedCanvasElement = EditPanel.Children.IndexOf(table);
                 int selectedTable = EditPanel.Children.OfType<TableUC>().ToList().IndexOf(table);
@@ -236,6 +252,21 @@ namespace KiviSqlModeler.Views.Pages
             HideProperies();
         }
 
+        //bool isTrash = false;
+
+        //private void btnTrashcan_Click(object sender, RoutedEventArgs e)
+        //{
+        //    isTrash = !isTrash;                                              //// Удаление таблицы без визуальных багов
+        //    if (isTrash)
+        //    {
+        //        btnAddRow.BorderBrush = Application.Current.FindResource("TextFillColorPrimaryBrush") as SolidColorBrush;
+        //    }
+        //    else
+        //    {
+        //        btnAddRow.BorderBrush = new SolidColorBrush(Color.FromArgb(0x12, 0xFF, 0xFF, 0xFF));
+        //    }
+        //}
+
         #region TableControl
 
         public int selectedTable;
@@ -247,7 +278,7 @@ namespace KiviSqlModeler.Views.Pages
             if (cbModel.SelectedIndex == 0)
             {
                 return LogTable;
-            } 
+            }
             else
             {
                 return PhyTable;
@@ -257,6 +288,11 @@ namespace KiviSqlModeler.Views.Pages
         public int GetTableIndex(object sender)
         {
             return EditPanel.Children.OfType<TableUC>().ToList().IndexOf((TableUC)sender);
+        }
+
+        public int GetTableIndex(TableUC sender)
+        {
+            return EditPanel.Children.OfType<TableUC>().ToList().IndexOf(sender);
         }
 
         /// <summary>
@@ -282,7 +318,7 @@ namespace KiviSqlModeler.Views.Pages
             tbColumnName.Text = columnModel.Name;
             tbColumnType.Text = columnModel.Type;
             cbIsNull.IsChecked = columnModel.IsNull == ColumnModel.isNull.Null ? true : false;
-            cbPK.IsChecked = columnModel.Pkfk == ColumnModel.PKFK.pk ? true : false;
+            cbPK.IsChecked = (columnModel.Pkfk == ColumnModel.PKFK.pk || columnModel.Pkfk == ColumnModel.PKFK.pkfk) ? true : false;
         }
 
         /// <summary>
@@ -302,8 +338,16 @@ namespace KiviSqlModeler.Views.Pages
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void TableUC_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        private void TableUC_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)   // Добавить создание нескольких ВК по нескольким ПК
         {
+            //if (isTrash)
+            //{
+            //    LogTable.RemoveAt(GetTableIndex(sender));                                              //// Удаление таблицы без визуальных багов
+            //    PhyTable.RemoveAt(GetTableIndex(sender));
+            //    EditPanel.Children.RemoveAt(EditPanel.Children.IndexOf((TableUC)sender));
+
+            //}
+
             LogTable[GetTableIndex(sender)].Left = Canvas.GetLeft((TableUC)sender);
             LogTable[GetTableIndex(sender)].Top = Canvas.GetTop((TableUC)sender);
             PhyTable[GetTableIndex(sender)].Left = Canvas.GetLeft((TableUC)sender);
@@ -314,7 +358,7 @@ namespace KiviSqlModeler.Views.Pages
                 int indexCanvasElement = EditPanel.Children.IndexOf((TableUC)sender);
                 int index = GetTableIndex(sender);
                 int indexColumn = ((TableUC)EditPanel.Children[indexCanvasElement]).dgTable.SelectedIndex;
-                
+
                 if (indexColumn == -1)
                 {
                     return;
@@ -332,28 +376,29 @@ namespace KiviSqlModeler.Views.Pages
                         LogTable[index].Columns.Add(new ColumnModel("column", "", ColumnModel.isNull.Null, ColumnModel.PKFK.fk));
                         PhyTable[index].Columns.Add(new ColumnModel("column", "", ColumnModel.isNull.Null, ColumnModel.PKFK.fk));
 
-                        RedrowTable(index,indexCanvasElement);
+                        RedrowTable(index, indexCanvasElement);
 
                         TableUC first = (TableUC)EditPanel.Children[firstCanvasTable];
                         TableUC second = (TableUC)EditPanel.Children[indexCanvasElement];
-                        connections.Add(new ConnectionModel() 
-                        { 
-                            Source = first, 
+                        connections.Add(new ConnectionModel()
+                        {
+                            Source = first,
                             Destination = second,
-                            Dashed=false, 
+                            Dashed = false,
                             Shape = ShapeEnum.Arrow,
                             DIndexCanvasTable = indexCanvasElement,
                             CIndexCanvasTable = firstCanvasTable,
-                            SourceTable = GetModel()[firstTable],
-                            DestinationTable = GetModel()[index],
-                            SourceColumn = GetModel()[firstTable].Columns[firstColumn],
-                            DestinationColumn = GetModel()[index].Columns.Last(),
+                            SourceTable = firstTable,
+                            DestinationTable = index,
+                            SourceColumn = firstColumn,
+                            DestinationColumn = GetModel()[index].Columns.Count - 1,
                         });
                         CreateArrowBetween();
                         ((TableUC)EditPanel.Children[indexCanvasElement]).dgTable.SelectedIndex = -1;
                         ((TableUC)EditPanel.Children[firstCanvasTable]).dgTable.SelectedIndex = -1;
                         firstColumn = -1;
                         firstCanvasTable = -1;
+                        firstTable = -1;
                     }
                 }
             }
@@ -385,6 +430,8 @@ namespace KiviSqlModeler.Views.Pages
             return myTable;
         }
 
+        private TableUC deleteTable;
+
         private void MyTable_MouseRightButtonDown(object sender, MouseButtonEventArgs e)
         {
             ContextMenu contextMenu = new()
@@ -393,14 +440,48 @@ namespace KiviSqlModeler.Views.Pages
                 Placement = PlacementMode.Mouse,
                 IsOpen = true
             };
+            deleteTable = (TableUC)sender;
             Wpf.Ui.Controls.MenuItem removePath = new() { Header = "Удалить" };
-            removePath.Click += RemovePath_Click1; 
+            removePath.Click += RemoveTable;
             contextMenu.Items.Add(removePath);
         }
 
-        private void RemovePath_Click1(object sender, RoutedEventArgs e)
+        private void RemoveTable(object sender, RoutedEventArgs e) 
         {
+            int indexTable = GetTableIndex(deleteTable);
+            int indexCanvasElement = EditPanel.Children.IndexOf(deleteTable);
             
+            if (isAddArrow)
+            {
+                isAddArrow = !isAddArrow;
+                firstCanvasTable = -1;
+                firstColumn = -1;
+                firstTable = -1;
+                ((TableUC)EditPanel.Children[firstCanvasTable]).dgTable.SelectedIndex = -1;
+                btnAddRow.BorderBrush = new SolidColorBrush(Color.FromArgb(0x12, 0xFF, 0xFF, 0xFF));
+            }
+
+            if (selectedTable == indexTable)
+            {
+                selectedTable = -1;
+                selectedCanvasElement = -1;
+                selectedColumn = -1;
+                HideProperies();
+            }
+
+            EditPanel.Children.RemoveAt(indexCanvasElement);
+            LogTable.RemoveAt(indexTable);
+            PhyTable.RemoveAt(indexTable);
+
+            // удаление связей
+
+            foreach (var con in connections)
+            {
+                if (con.SourceTable == indexTable)
+                {
+                    RemoveArrow(con.Path);
+                }
+            }
         }
 
         public void RedrowTable(int selectedTable, int selectedCanvasElement)
@@ -408,6 +489,19 @@ namespace KiviSqlModeler.Views.Pages
             TableUC myTable = GetTableUC(GetModel()[selectedTable]);
             EditPanel.Children.RemoveAt(selectedCanvasElement);
             EditPanel.Children.Insert(selectedCanvasElement, myTable);
+            foreach (var c in connections)
+            {
+                if (c.CIndexCanvasTable == selectedCanvasElement)
+                {
+                    c.Source = myTable;
+                    c.SourceTable = selectedTable;
+                }
+                if (c.DIndexCanvasTable == selectedCanvasElement)
+                {
+                    c.Destination = myTable;
+                    c.DestinationTable =selectedTable;
+                }
+            }
         }
 
         #region Zooming and Panning
@@ -420,8 +514,8 @@ namespace KiviSqlModeler.Views.Pages
             if (e.ChangedButton == MouseButton.Right)
             {
                 _initialMousePosition = _transform.Inverse.Transform(e.GetPosition(EditPanel));
+                
             }
-
         }
 
         private void EditPanel_MouseMove(object sender, MouseEventArgs e)
@@ -455,7 +549,7 @@ namespace KiviSqlModeler.Views.Pages
             Matrix scaleMatrix = _transform.Matrix;
             scaleMatrix.ScaleAt(scaleFactor, scaleFactor, mousePostion.X, mousePostion.Y);
 
-            double currentScale = (float) Math.Sqrt(scaleMatrix.M11 * scaleMatrix.M11 + scaleMatrix.M12 * scaleMatrix.M12);
+            double currentScale = (float)Math.Sqrt(scaleMatrix.M11 * scaleMatrix.M11 + scaleMatrix.M12 * scaleMatrix.M12);
             if (currentScale < 0.3)
             {
                 return;
@@ -495,7 +589,7 @@ namespace KiviSqlModeler.Views.Pages
 
         private void CreateArrowBetween()
         {
-            foreach(var c in connections)
+            foreach (var c in connections)
             {
                 double halfSourceWidth = c.Source.ActualWidth / 2;
                 double halfSourceHeight = c.Source.ActualHeight / 2;
@@ -530,13 +624,13 @@ namespace KiviSqlModeler.Views.Pages
 
                 Point StartPoint = new()
                 {
-                    X = SrcP.X - (sideConnections ? distanceX > 0 ? halfSourceWidth: (-halfSourceWidth): 0),
+                    X = SrcP.X - (sideConnections ? distanceX > 0 ? halfSourceWidth : (-halfSourceWidth) : 0),
                     Y = SrcP.Y - (sideConnections ? 0 : distanceY > 0 ? halfSourceHeight : (-halfSourceHeight))
                 };
                 Point EndPoint = new()
                 {
-                    X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth: (-halfDestinationWidth): 0),
-                    Y = DstP.Y + (sideConnections ? 0 : distanceY > 0 ? halfDestinationHeight: (-halfDestinationHeight))
+                    X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth : (-halfDestinationWidth) : 0),
+                    Y = DstP.Y + (sideConnections ? 0 : distanceY > 0 ? halfDestinationHeight : (-halfDestinationHeight))
                 };
 
                 double distanceX2 = StartPoint.X - EndPoint.X;
@@ -584,42 +678,75 @@ namespace KiviSqlModeler.Views.Pages
         private static PathFigureCollection ShapePath(ShapeEnum shape, bool sideConnections, Point DstP, double distanceX, double distanceY, double halfDestinationWidth, double halfDestinationHeight)
         {
             return new()
+            {
+                new PathFigure()
                 {
-                    new PathFigure()
+                    IsClosed = shape is ShapeEnum.Diamond or ShapeEnum.Triangle,
+                    IsFilled = true,
+                    StartPoint = new() {
+                        X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth + 5 : (-halfDestinationWidth) - 5 : 5),
+                        Y = DstP.Y + (sideConnections ? 5 : distanceY > 0 ? halfDestinationHeight + 5 : (-halfDestinationHeight) - 5)
+                    },
+                    Segments = new()
                     {
-                        IsClosed = shape is ShapeEnum.Diamond or ShapeEnum.Triangle,
-                        IsFilled = true,
-                        StartPoint = new() {
-                            X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth + 5 : (-halfDestinationWidth) - 5 : 5),
-                            Y = DstP.Y + (sideConnections ? 5 : distanceY > 0 ? halfDestinationHeight + 5 : (-halfDestinationHeight) - 5)
+                        new LineSegment { Point = new() {
+                            X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth : -halfDestinationWidth : 0),
+                            Y = DstP.Y + (sideConnections ? 0 : distanceY > 0 ? halfDestinationHeight : -halfDestinationHeight) }
                         },
-                        Segments = new()
+                        new LineSegment { Point = new() {
+                            X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth + 5 : (-halfDestinationWidth) - 5 : -5),
+                            Y = DstP.Y + (sideConnections ? -5 : distanceY > 0 ? halfDestinationHeight + 5 : (-halfDestinationHeight) - 5) }
+                        },
+                        shape == ShapeEnum.Diamond ? new LineSegment
                         {
-                            new LineSegment { Point = new() {
-                                X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth : -halfDestinationWidth : 0),
-                                Y = DstP.Y + (sideConnections ? 0 : distanceY > 0 ? halfDestinationHeight : -halfDestinationHeight) }
-                            },
-                            new LineSegment { Point = new() {
-                                X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth + 5 : (-halfDestinationWidth) - 5 : -5),
-                                Y = DstP.Y + (sideConnections ? -5 : distanceY > 0 ? halfDestinationHeight + 5 : (-halfDestinationHeight) - 5) }
-                            },
-                            shape == ShapeEnum.Diamond ? new LineSegment
-                            {
-                                Point = new() {
-                                X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth + 10 : (-halfDestinationWidth) - 10 : 0),
-                                Y = DstP.Y + (sideConnections ? 0 : distanceY > 0 ? halfDestinationHeight + 10 : (-halfDestinationHeight) - 10) }
-                            } : new LineSegment() { Point = new() {
-                                X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth + 5 : (-halfDestinationWidth) - 5 : -5),
-                                Y = DstP.Y + (sideConnections ? -5 : distanceY > 0 ? halfDestinationHeight + 5 : (-halfDestinationHeight) - 5) }
-                            }
+                            Point = new() {
+                            X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth + 10 : (-halfDestinationWidth) - 10 : 0),
+                            Y = DstP.Y + (sideConnections ? 0 : distanceY > 0 ? halfDestinationHeight + 10 : (-halfDestinationHeight) - 10) }
+                        } : new LineSegment() { Point = new() {
+                            X = DstP.X + (sideConnections ? distanceX > 0 ? halfDestinationWidth + 5 : (-halfDestinationWidth) - 5 : -5),
+                            Y = DstP.Y + (sideConnections ? -5 : distanceY > 0 ? halfDestinationHeight + 5 : (-halfDestinationHeight) - 5) }
                         }
                     }
-                };
+                }
+            };
+        }
+
+        public void RemoveArrow(Path path)
+        {
+            ConnectionModel connection = connections.Single(c => c.Path == path);
+            EditPanel.Children.Remove(connection.Path);
+            EditPanel.Children.Remove(connection.ShapePath);
+
+            LogTable[connection.DestinationTable].Columns.RemoveAt(connection.DestinationColumn);
+            PhyTable[connection.DestinationTable].Columns.RemoveAt(connection.DestinationColumn);
+
+            if(connection.DestinationTable == selectedTable && connection.DestinationColumn == selectedColumn)
+            {
+                selectedColumn--;
+                if (LogTable[selectedTable].Columns.Count != 0 && selectedColumn == -1)
+                    selectedColumn++;
+                SelectedColumn(GetModel()[selectedTable].Columns[selectedColumn]);
+
+                RedrowTable(selectedTable, selectedCanvasElement);
+            }
+
+            connections.Remove(connection);
         }
 
         private void RemovePath_Click(object sender, RoutedEventArgs e)
         {
-            
+            if (isAddArrow)
+            {
+                isAddArrow = !isAddArrow;
+                firstCanvasTable = -1;
+                firstColumn = -1;
+                firstTable = -1;
+                ((TableUC)EditPanel.Children[firstCanvasTable]).dgTable.SelectedIndex = -1;
+                btnAddRow.BorderBrush = new SolidColorBrush(Color.FromArgb(0x12, 0xFF, 0xFF, 0xFF));
+            }
+
+            Path path = (Path)((ContextMenu)((Wpf.Ui.Controls.MenuItem)sender).Parent).PlacementTarget;
+            RemoveArrow(path);
         }
 
         #endregion Arrow control

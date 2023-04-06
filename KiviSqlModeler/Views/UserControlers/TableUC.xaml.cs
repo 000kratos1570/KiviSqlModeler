@@ -34,17 +34,7 @@ namespace KiviSqlModeler.Views.UserControlers
             typeof(TableUC),
             new FrameworkPropertyMetadata(default(ObservableCollection<ColumnModel>), FrameworkPropertyMetadataOptions.BindsTwoWayByDefault));
 
-        //public static readonly DependencyProperty LeftProperty = DependencyProperty.Register(
-        //    nameof(Left), typeof(double),
-        //    typeof(TableUC),
-        //    new FrameworkPropertyMetadata(default(double), FrameworkPropertyMetadataOptions.BindsTwoWayByDefault));
-
-        //public static readonly DependencyProperty RightProperty = DependencyProperty.Register(
-        //    nameof(Right), typeof(double),
-        //    typeof(TableUC),
-        //    new FrameworkPropertyMetadata(default(double), FrameworkPropertyMetadataOptions.BindsTwoWayByDefault));
-
-        public TableUC(TableModel table/*, SelectionChangedEventHandler selectionChangedEventHandler*/)
+        public TableUC(TableModel table)
         {
             InitializeComponent();
 
@@ -55,8 +45,6 @@ namespace KiviSqlModeler.Views.UserControlers
             NameTable = table.Name;
             Columns = table.Columns;
             DataContext = this;
-
-            //dgTable.SelectionChanged += selectionChangedEventHandler;
         }
 
         private bool isDragging = false;
@@ -71,8 +59,6 @@ namespace KiviSqlModeler.Views.UserControlers
 
         private void TableUC_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
         {
-            //Left = Canvas.GetLeft(this);
-            //Right = Canvas.GetRight(this);
             isDragging = false;
             ReleaseMouseCapture();
         }
@@ -103,17 +89,5 @@ namespace KiviSqlModeler.Views.UserControlers
             get => (ObservableCollection<ColumnModel>)GetValue(ColumnsProperty);
             set => SetValue(ColumnsProperty, value);
         }
-
-        //public double Left
-        //{
-        //    get => (double)GetValue(LeftProperty);
-        //    set => SetValue(LeftProperty, value);
-        //}
-
-        //public double Right
-        //{
-        //    get => (double)GetValue(RightProperty);
-        //    set => SetValue(RightProperty, value);
-        //}
     }
 }
