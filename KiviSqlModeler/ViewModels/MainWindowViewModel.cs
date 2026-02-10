@@ -42,14 +42,21 @@ namespace KiviSqlModeler.ViewModels
                     PageTag = "dashboard",
                     Icon = SymbolRegular.Home24,
                     PageType = typeof(Views.Pages.DashboardPage)
-                }/*,
+                },
                 new NavigationItem()
                 {
-                    Content = "Data",
+                    Content = "SQL",
                     PageTag = "data",
                     Icon = SymbolRegular.DataHistogram24,
                     PageType = typeof(Views.Pages.DataPage)
-                }*/
+                },
+                new NavigationItem()
+                {
+                    Content = "Профиль",
+                    PageTag = "profile",
+                    Icon = SymbolRegular.Person24,
+                    PageType = typeof(Views.Pages.MainProfilePage)
+                }
             };
 
             NavigationFooter = new ObservableCollection<INavigationControl>

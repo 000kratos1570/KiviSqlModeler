@@ -1,0 +1,1692 @@
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\KiviSqlModeler.exe
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\KiviSqlModeler.deps.json
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\KiviSqlModeler.runtimeconfig.json
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\KiviSqlModeler.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\KiviSqlModeler.pdb
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\CommunityToolkit.Mvvm.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Hosting.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.Console.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Options.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Wpf.Ui.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.CSharp.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Win32.Primitives.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Win32.Registry.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.AppContext.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Buffers.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Collections.Concurrent.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Collections.Immutable.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Collections.NonGeneric.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Collections.Specialized.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Collections.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.Annotations.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.Primitives.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Configuration.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Console.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Core.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Data.Common.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Data.DataSetExtensions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Data.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.Contracts.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.Debug.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.Process.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.StackTrace.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.Tools.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.TraceSource.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.Tracing.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Drawing.Primitives.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Dynamic.Runtime.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Formats.Asn1.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Globalization.Calendars.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Globalization.Extensions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Globalization.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Compression.Brotli.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Compression.FileSystem.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Compression.ZipFile.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Compression.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.FileSystem.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.IsolatedStorage.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Pipes.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Linq.Expressions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Linq.Parallel.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Linq.Queryable.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Linq.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Memory.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Http.Json.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Http.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.HttpListener.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Mail.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.NameResolution.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.NetworkInformation.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Ping.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Primitives.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Quic.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Requests.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Security.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.ServicePoint.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Sockets.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.WebClient.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.WebHeaderCollection.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.WebProxy.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.WebSockets.Client.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.WebSockets.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Numerics.Vectors.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Numerics.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ObjectModel.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Private.CoreLib.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Private.DataContractSerialization.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Private.Uri.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Private.Xml.Linq.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Private.Xml.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.DispatchProxy.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Emit.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Extensions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Metadata.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Primitives.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.TypeExtensions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Resources.Reader.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Resources.ResourceManager.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Resources.Writer.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Extensions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Handles.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.InteropServices.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Intrinsics.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Loader.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Numerics.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Serialization.Json.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Serialization.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.AccessControl.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Claims.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Cng.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Csp.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Principal.Windows.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Principal.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.SecureString.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ServiceModel.Web.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ServiceProcess.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.Encoding.Extensions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.Encoding.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.Encodings.Web.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.Json.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.RegularExpressions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Channels.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Overlapped.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Tasks.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Thread.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.ThreadPool.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Timer.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Transactions.Local.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Transactions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ValueTuple.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Web.HttpUtility.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Web.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.Linq.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.ReaderWriter.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.Serialization.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.XDocument.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.XPath.XDocument.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.XPath.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.XmlDocument.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.XmlSerializer.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\mscorlib.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\netstandard.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Accessibility.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\DirectWriteForwarder.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.VisualBasic.Forms.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.VisualBasic.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationCore.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework-SystemCore.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework-SystemData.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework-SystemDrawing.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework-SystemXml.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework-SystemXmlLinq.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.Aero.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.Aero2.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.AeroLite.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.Classic.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.Luna.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.Royale.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationUI.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ReachFramework.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.CodeDom.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Design.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.EventLog.Messages.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.EventLog.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.PerformanceCounter.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.DirectoryServices.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Drawing.Common.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Drawing.Design.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Drawing.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Packaging.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Printing.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Resources.Extensions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Pkcs.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Xml.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Permissions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.AccessControl.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Controls.Ribbon.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Extensions.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Forms.Design.Editors.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Forms.Design.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Forms.Primitives.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Forms.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Input.Manipulations.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Presentation.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xaml.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\UIAutomationClient.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\UIAutomationClientSideProviders.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\UIAutomationProvider.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\UIAutomationTypes.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\WindowsBase.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\WindowsFormsIntegration.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Compression.Native.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-console-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-console-l1-2-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-debug-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-fibers-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-file-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-file-l1-2-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-file-l2-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-handle-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-heap-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-localization-l1-2-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-memory-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-profile-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-string-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-synch-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-synch-l1-2-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-util-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-private-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-process-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\clretwrc.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\clrjit.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\coreclr.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\createdump.exe
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\dbgshim.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\hostfxr.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\hostpolicy.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\mscordaccore.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\mscordaccore_amd64_amd64_6.0.1122.52304.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\mscordbi.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\mscorrc.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\msquic.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ucrtbase.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\D3DCompiler_47_cor3.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PenImc_cor3.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationNative_cor3.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\vcruntime140_cor3.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\wpfgfx_cor3.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\PresentationCore.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\PresentationFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\PresentationUI.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\ReachFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Windows.Forms.Design.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Windows.Forms.Primitives.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Windows.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Windows.Input.Manipulations.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Xaml.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\UIAutomationClient.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\UIAutomationClientSideProviders.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\UIAutomationProvider.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\UIAutomationTypes.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\WindowsBase.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\WindowsFormsIntegration.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\PresentationCore.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\PresentationFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\PresentationUI.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\ReachFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Windows.Forms.Design.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Windows.Forms.Primitives.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Windows.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Windows.Input.Manipulations.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Xaml.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\UIAutomationClient.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\UIAutomationClientSideProviders.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\UIAutomationProvider.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\UIAutomationTypes.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\WindowsBase.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\WindowsFormsIntegration.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\PresentationCore.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\PresentationFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\PresentationUI.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\ReachFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Windows.Forms.Design.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Windows.Forms.Primitives.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Windows.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Windows.Input.Manipulations.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Xaml.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\UIAutomationClient.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\UIAutomationClientSideProviders.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\UIAutomationProvider.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\UIAutomationTypes.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\WindowsBase.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\WindowsFormsIntegration.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\PresentationCore.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\PresentationFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\PresentationUI.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\ReachFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Windows.Forms.Design.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Windows.Forms.Primitives.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Windows.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Windows.Input.Manipulations.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Xaml.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\UIAutomationClient.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\UIAutomationClientSideProviders.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\UIAutomationProvider.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\UIAutomationTypes.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\WindowsBase.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\WindowsFormsIntegration.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\PresentationCore.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\PresentationFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\PresentationUI.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\ReachFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Windows.Forms.Design.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Windows.Forms.Primitives.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Windows.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Windows.Input.Manipulations.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Xaml.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\UIAutomationClient.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\UIAutomationClientSideProviders.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\UIAutomationProvider.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\UIAutomationTypes.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\WindowsBase.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\WindowsFormsIntegration.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\PresentationCore.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\PresentationFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\PresentationUI.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\ReachFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Windows.Forms.Design.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Windows.Forms.Primitives.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Windows.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Windows.Input.Manipulations.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Xaml.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\UIAutomationClient.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\UIAutomationClientSideProviders.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\UIAutomationProvider.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\UIAutomationTypes.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\WindowsBase.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\WindowsFormsIntegration.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\PresentationCore.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\PresentationFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\PresentationUI.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\ReachFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Windows.Forms.Design.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Windows.Forms.Primitives.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Windows.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Windows.Input.Manipulations.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Xaml.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\UIAutomationClient.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\UIAutomationClientSideProviders.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\UIAutomationProvider.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\UIAutomationTypes.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\WindowsBase.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\WindowsFormsIntegration.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\PresentationCore.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\PresentationFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\PresentationUI.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\ReachFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Windows.Forms.Design.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Windows.Forms.Primitives.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Windows.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Windows.Input.Manipulations.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Xaml.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\UIAutomationClient.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\UIAutomationClientSideProviders.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\UIAutomationProvider.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\UIAutomationTypes.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\WindowsBase.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\WindowsFormsIntegration.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\PresentationCore.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\PresentationFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\PresentationUI.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\ReachFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Windows.Forms.Design.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Windows.Forms.Primitives.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Windows.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Windows.Input.Manipulations.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Xaml.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\UIAutomationClient.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\UIAutomationClientSideProviders.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\UIAutomationProvider.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\UIAutomationTypes.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\WindowsBase.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\WindowsFormsIntegration.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\PresentationCore.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\PresentationFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\PresentationUI.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\ReachFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Windows.Forms.Design.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Windows.Forms.Primitives.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Windows.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Windows.Input.Manipulations.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Xaml.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\UIAutomationClient.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\UIAutomationClientSideProviders.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\UIAutomationProvider.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\UIAutomationTypes.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\WindowsBase.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\WindowsFormsIntegration.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\PresentationCore.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\PresentationFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\PresentationUI.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\ReachFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Windows.Forms.Design.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Windows.Forms.Primitives.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Windows.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Windows.Input.Manipulations.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Xaml.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\UIAutomationClient.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\UIAutomationClientSideProviders.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\UIAutomationProvider.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\UIAutomationTypes.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\WindowsBase.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\WindowsFormsIntegration.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\PresentationCore.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\PresentationFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\PresentationUI.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\ReachFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Windows.Forms.Design.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Windows.Forms.Primitives.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Windows.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Windows.Input.Manipulations.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Xaml.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\UIAutomationClient.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\UIAutomationClientSideProviders.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\UIAutomationProvider.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\UIAutomationTypes.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\WindowsBase.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\WindowsFormsIntegration.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\PresentationCore.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\PresentationFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\PresentationUI.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\ReachFramework.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Windows.Forms.Design.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Windows.Forms.Primitives.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Windows.Forms.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Windows.Input.Manipulations.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Xaml.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\UIAutomationClient.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\UIAutomationClientSideProviders.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\UIAutomationProvider.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\UIAutomationTypes.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\WindowsBase.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\WindowsFormsIntegration.resources.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.csproj.AssemblyReference.cache
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\App.baml
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\DashboardPage.g.cs
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\DataPage.g.cs
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\SettingsPage.g.cs
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\UserControlers\TableUC.g.cs
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Windows\MainWindow.g.cs
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\App.g.cs
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler_Content.g.cs
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\GeneratedInternalTypeHelper.g.cs
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler_MarkupCompile.cache
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler_MarkupCompile.lref
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\DashboardPage.baml
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\DataPage.baml
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\SettingsPage.baml
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\UserControlers\TableUC.baml
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Windows\MainWindow.baml
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.g.resources
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.AssemblyInfoInputs.cache
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.AssemblyInfo.cs
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.csproj.CoreCompileInputs.cache
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.csproj.CopyComplete
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\refint\KiviSqlModeler.dll
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.pdb
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.genruntimeconfig.cache
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\ref\KiviSqlModeler.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\KiviSqlModeler.exe
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\KiviSqlModeler.deps.json
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\KiviSqlModeler.runtimeconfig.json
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\KiviSqlModeler.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\KiviSqlModeler.pdb
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\CommunityToolkit.Mvvm.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Hosting.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.Console.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Options.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Primitives.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Wpf.Ui.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.CSharp.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.VisualBasic.Core.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Win32.Primitives.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Win32.Registry.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.AppContext.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Buffers.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Collections.Concurrent.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Collections.Immutable.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Collections.NonGeneric.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Collections.Specialized.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Collections.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.Annotations.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.DataAnnotations.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.Primitives.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.TypeConverter.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Configuration.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Console.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Core.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Data.Common.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Data.DataSetExtensions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Data.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.Contracts.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.Debug.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.Process.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.StackTrace.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.Tools.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.TraceSource.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.Tracing.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Drawing.Primitives.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Dynamic.Runtime.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Formats.Asn1.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Globalization.Calendars.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Globalization.Extensions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Globalization.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Compression.Brotli.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Compression.FileSystem.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Compression.ZipFile.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Compression.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.FileSystem.AccessControl.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.FileSystem.Primitives.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.FileSystem.Watcher.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.FileSystem.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.IsolatedStorage.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.MemoryMappedFiles.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Pipes.AccessControl.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Pipes.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Linq.Expressions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Linq.Parallel.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Linq.Queryable.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Linq.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Memory.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Http.Json.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Http.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.HttpListener.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Mail.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.NameResolution.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.NetworkInformation.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Ping.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Primitives.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Quic.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Requests.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Security.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.ServicePoint.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Sockets.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.WebClient.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.WebHeaderCollection.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.WebProxy.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.WebSockets.Client.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.WebSockets.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Numerics.Vectors.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Numerics.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ObjectModel.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Private.CoreLib.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Private.DataContractSerialization.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Private.Uri.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Private.Xml.Linq.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Private.Xml.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.DispatchProxy.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Emit.Lightweight.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Emit.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Extensions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Metadata.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Primitives.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.TypeExtensions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Resources.Reader.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Resources.ResourceManager.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Resources.Writer.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Extensions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Handles.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.InteropServices.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Intrinsics.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Loader.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Numerics.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Serialization.Formatters.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Serialization.Json.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Serialization.Primitives.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Serialization.Xml.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Serialization.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.AccessControl.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Claims.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Algorithms.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Cng.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Csp.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Encoding.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Primitives.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Principal.Windows.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Principal.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.SecureString.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ServiceModel.Web.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ServiceProcess.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.Encoding.CodePages.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.Encoding.Extensions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.Encoding.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.Encodings.Web.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.Json.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.RegularExpressions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Channels.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Overlapped.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Tasks.Dataflow.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Tasks.Extensions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Tasks.Parallel.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Tasks.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Thread.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.ThreadPool.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Timer.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Transactions.Local.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Transactions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ValueTuple.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Web.HttpUtility.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Web.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.Linq.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.ReaderWriter.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.Serialization.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.XDocument.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.XPath.XDocument.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.XPath.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.XmlDocument.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.XmlSerializer.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\mscorlib.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\netstandard.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Accessibility.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\DirectWriteForwarder.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.VisualBasic.Forms.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.VisualBasic.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Win32.Registry.AccessControl.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Win32.SystemEvents.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationCore.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework-SystemCore.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework-SystemData.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework-SystemDrawing.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework-SystemXml.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework-SystemXmlLinq.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.Aero.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.Aero2.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.AeroLite.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.Classic.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.Luna.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.Royale.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationUI.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ReachFramework.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.CodeDom.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Configuration.ConfigurationManager.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Design.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.EventLog.Messages.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.EventLog.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.PerformanceCounter.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.DirectoryServices.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Drawing.Common.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Drawing.Design.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Drawing.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Packaging.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Printing.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Resources.Extensions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Pkcs.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.ProtectedData.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Xml.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Permissions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.AccessControl.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Controls.Ribbon.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Extensions.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Forms.Design.Editors.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Forms.Design.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Forms.Primitives.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Forms.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Input.Manipulations.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Presentation.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xaml.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\UIAutomationClient.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\UIAutomationClientSideProviders.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\UIAutomationProvider.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\UIAutomationTypes.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\WindowsBase.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\WindowsFormsIntegration.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Compression.Native.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-console-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-console-l1-2-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-debug-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-fibers-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-file-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-file-l1-2-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-file-l2-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-handle-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-heap-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-localization-l1-2-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-memory-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-profile-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-string-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-synch-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-synch-l1-2-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-util-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-math-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-private-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-process-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-string-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-time-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\clretwrc.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\clrjit.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\coreclr.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\createdump.exe
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\dbgshim.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\hostfxr.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\hostpolicy.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\mscordaccore.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\mscordaccore_amd64_amd64_6.0.1122.52304.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\mscordbi.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\mscorrc.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\msquic.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ucrtbase.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\D3DCompiler_47_cor3.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PenImc_cor3.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationNative_cor3.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\vcruntime140_cor3.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\wpfgfx_cor3.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\PresentationCore.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\PresentationFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\PresentationUI.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\ReachFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Xaml.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\UIAutomationClient.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\WindowsBase.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\PresentationCore.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\PresentationFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\PresentationUI.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\ReachFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Xaml.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\UIAutomationClient.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\WindowsBase.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\PresentationCore.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\PresentationFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\PresentationUI.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\ReachFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Xaml.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\UIAutomationClient.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\WindowsBase.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\PresentationCore.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\PresentationFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\PresentationUI.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\ReachFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Xaml.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\UIAutomationClient.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\WindowsBase.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\PresentationCore.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\PresentationFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\PresentationUI.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\ReachFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Xaml.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\UIAutomationClient.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\WindowsBase.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\PresentationCore.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\PresentationFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\PresentationUI.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\ReachFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Xaml.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\UIAutomationClient.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\WindowsBase.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\PresentationCore.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\PresentationFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\PresentationUI.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\ReachFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Xaml.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\UIAutomationClient.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\WindowsBase.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\PresentationCore.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\PresentationFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\PresentationUI.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\ReachFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Xaml.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\UIAutomationClient.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\WindowsBase.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\PresentationCore.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\PresentationFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\PresentationUI.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\ReachFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Xaml.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\UIAutomationClient.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\WindowsBase.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\PresentationCore.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\PresentationFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\PresentationUI.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\ReachFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Xaml.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\UIAutomationClient.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\WindowsBase.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\PresentationCore.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\PresentationFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\PresentationUI.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\ReachFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Xaml.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\UIAutomationClient.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\WindowsBase.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\PresentationCore.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\PresentationFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\PresentationUI.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\ReachFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Xaml.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\UIAutomationClient.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\WindowsBase.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\PresentationCore.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\PresentationFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\PresentationUI.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\ReachFramework.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Xaml.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\UIAutomationClient.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\WindowsBase.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.csproj.AssemblyReference.cache
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\App.baml
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\DashboardPage.g.cs
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\DataPage.g.cs
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\SettingsPage.g.cs
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\UserControlers\TableUC.g.cs
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Windows\MainWindow.g.cs
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\App.g.cs
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler_Content.g.cs
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\GeneratedInternalTypeHelper.g.cs
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler_MarkupCompile.cache
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler_MarkupCompile.lref
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\DashboardPage.baml
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\DataPage.baml
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\SettingsPage.baml
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\UserControlers\TableUC.baml
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Windows\MainWindow.baml
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.g.resources
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.AssemblyInfoInputs.cache
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.AssemblyInfo.cs
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.csproj.CoreCompileInputs.cache
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.csproj.CopyComplete
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\refint\KiviSqlModeler.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.pdb
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.genruntimeconfig.cache
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\ref\KiviSqlModeler.dll
+D:\Практические и лекции\Законченные дисциплины\ТРПО - Технология разработки програмного обеспечения\Шимбирёв\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Newtonsoft.Json.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\mscordbi.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\KiviSqlModeler.exe
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\KiviSqlModeler.deps.json
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\KiviSqlModeler.runtimeconfig.json
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\KiviSqlModeler.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\KiviSqlModeler.pdb
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.CSharp.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.VisualBasic.Core.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Win32.Primitives.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Win32.Registry.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.AppContext.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Buffers.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Collections.Concurrent.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Collections.Immutable.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Collections.NonGeneric.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Collections.Specialized.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Collections.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.Annotations.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.DataAnnotations.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.Primitives.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.TypeConverter.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ComponentModel.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Configuration.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Console.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Core.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Data.Common.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Data.DataSetExtensions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Data.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.Contracts.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.Debug.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.Process.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.StackTrace.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.Tools.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.TraceSource.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.Tracing.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Drawing.Primitives.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Dynamic.Runtime.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Formats.Asn1.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Globalization.Calendars.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Globalization.Extensions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Globalization.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Compression.Brotli.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Compression.FileSystem.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Compression.ZipFile.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Compression.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.FileSystem.AccessControl.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.FileSystem.Primitives.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.FileSystem.Watcher.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.FileSystem.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.IsolatedStorage.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.MemoryMappedFiles.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Pipes.AccessControl.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Pipes.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Linq.Expressions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Linq.Parallel.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Linq.Queryable.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Linq.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Memory.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Http.Json.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Http.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.HttpListener.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Mail.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.NameResolution.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.NetworkInformation.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Ping.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Primitives.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Quic.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Requests.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Security.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.ServicePoint.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.Sockets.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.WebClient.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.WebHeaderCollection.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.WebProxy.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.WebSockets.Client.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.WebSockets.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Net.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Numerics.Vectors.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Numerics.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ObjectModel.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Private.CoreLib.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Private.DataContractSerialization.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Private.Uri.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Private.Xml.Linq.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Private.Xml.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.DispatchProxy.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Emit.Lightweight.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Emit.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Extensions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Metadata.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.Primitives.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.TypeExtensions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Reflection.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Resources.Reader.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Resources.ResourceManager.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Resources.Writer.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Extensions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Handles.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.InteropServices.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Intrinsics.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Loader.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Numerics.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Serialization.Formatters.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Serialization.Json.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Serialization.Primitives.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Serialization.Xml.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.Serialization.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Runtime.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.AccessControl.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Claims.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Algorithms.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Cng.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Csp.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Encoding.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Primitives.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Principal.Windows.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Principal.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.SecureString.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ServiceModel.Web.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ServiceProcess.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.Encoding.CodePages.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.Encoding.Extensions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.Encoding.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.RegularExpressions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Channels.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Overlapped.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Tasks.Dataflow.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Tasks.Extensions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Tasks.Parallel.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Tasks.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Thread.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.ThreadPool.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.Timer.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Transactions.Local.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Transactions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.ValueTuple.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Web.HttpUtility.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Web.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.Linq.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.ReaderWriter.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.Serialization.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.XDocument.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.XPath.XDocument.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.XPath.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.XmlDocument.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.XmlSerializer.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xml.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\mscorlib.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\netstandard.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Accessibility.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\DirectWriteForwarder.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.VisualBasic.Forms.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.VisualBasic.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Win32.Registry.AccessControl.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Win32.SystemEvents.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationCore.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework-SystemCore.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework-SystemData.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework-SystemDrawing.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework-SystemXml.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework-SystemXmlLinq.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.Aero.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.Aero2.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.AeroLite.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.Classic.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.Luna.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.Royale.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationFramework.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationUI.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ReachFramework.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.CodeDom.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Configuration.ConfigurationManager.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Design.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.EventLog.Messages.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.EventLog.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Diagnostics.PerformanceCounter.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.DirectoryServices.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Drawing.Common.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Drawing.Design.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Drawing.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Packaging.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Printing.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Resources.Extensions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Pkcs.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.ProtectedData.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Cryptography.Xml.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Security.Permissions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Threading.AccessControl.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Controls.Ribbon.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Extensions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Forms.Design.Editors.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Forms.Design.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Forms.Primitives.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Forms.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Input.Manipulations.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Windows.Presentation.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Xaml.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\UIAutomationClient.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\UIAutomationClientSideProviders.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\UIAutomationProvider.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\UIAutomationTypes.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\WindowsBase.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\WindowsFormsIntegration.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.IO.Compression.Native.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-console-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-console-l1-2-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-debug-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-fibers-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-file-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-file-l1-2-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-file-l2-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-handle-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-heap-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-localization-l1-2-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-memory-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-profile-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-string-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-synch-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-synch-l1-2-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-core-util-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-math-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-private-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-process-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-string-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-time-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\clretwrc.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\clrjit.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\coreclr.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\createdump.exe
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\dbgshim.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\hostfxr.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\hostpolicy.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\mscordaccore.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\mscordaccore_amd64_amd64_6.0.1122.52304.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\mscorrc.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\msquic.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ucrtbase.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\D3DCompiler_47_cor3.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PenImc_cor3.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\PresentationNative_cor3.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\vcruntime140_cor3.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\wpfgfx_cor3.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\PresentationCore.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\PresentationFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\PresentationUI.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\ReachFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\System.Xaml.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\UIAutomationClient.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\WindowsBase.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\cs\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\PresentationCore.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\PresentationFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\PresentationUI.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\ReachFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\System.Xaml.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\UIAutomationClient.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\WindowsBase.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\de\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\PresentationCore.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\PresentationFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\PresentationUI.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\ReachFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\System.Xaml.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\UIAutomationClient.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\WindowsBase.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\es\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\PresentationCore.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\PresentationFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\PresentationUI.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\ReachFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\System.Xaml.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\UIAutomationClient.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\WindowsBase.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\fr\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\PresentationCore.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\PresentationFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\PresentationUI.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\ReachFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\System.Xaml.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\UIAutomationClient.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\WindowsBase.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\it\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\PresentationCore.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\PresentationFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\PresentationUI.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\ReachFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\System.Xaml.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\UIAutomationClient.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\WindowsBase.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ja\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\PresentationCore.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\PresentationFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\PresentationUI.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\ReachFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\System.Xaml.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\UIAutomationClient.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\WindowsBase.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ko\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\PresentationCore.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\PresentationFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\PresentationUI.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\ReachFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\System.Xaml.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\UIAutomationClient.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\WindowsBase.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pl\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\PresentationCore.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\PresentationFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\PresentationUI.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\ReachFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\System.Xaml.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\UIAutomationClient.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\WindowsBase.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\pt-BR\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\PresentationCore.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\PresentationFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\PresentationUI.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\ReachFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\System.Xaml.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\UIAutomationClient.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\WindowsBase.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\ru\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\PresentationCore.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\PresentationFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\PresentationUI.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\ReachFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\System.Xaml.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\UIAutomationClient.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\WindowsBase.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\tr\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\PresentationCore.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\PresentationFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\PresentationUI.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\ReachFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\System.Xaml.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\UIAutomationClient.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\WindowsBase.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hans\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\Microsoft.VisualBasic.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\PresentationCore.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\PresentationFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\PresentationUI.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\ReachFramework.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Windows.Controls.Ribbon.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Windows.Forms.Design.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Windows.Forms.Primitives.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Windows.Forms.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Windows.Input.Manipulations.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\System.Xaml.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\UIAutomationClient.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\UIAutomationClientSideProviders.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\UIAutomationProvider.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\UIAutomationTypes.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\WindowsBase.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\zh-Hant\WindowsFormsIntegration.resources.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.csproj.AssemblyReference.cache
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\App.baml
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\AdminPage.g.cs
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\AuthPage.g.cs
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\DashboardPage.g.cs
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\DataPage.g.cs
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\MainProfilePage.g.cs
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\ProfilePage.g.cs
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\RegisterPage.g.cs
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\SettingsPage.g.cs
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\UserControlers\TableUC.g.cs
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Windows\MainWindow.g.cs
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Windows\OpenProjectWindow.g.cs
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\App.g.cs
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler_Content.g.cs
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\GeneratedInternalTypeHelper.g.cs
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler_MarkupCompile.cache
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler_MarkupCompile.lref
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\AdminPage.baml
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\AuthPage.baml
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\DashboardPage.baml
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\DataPage.baml
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\MainProfilePage.baml
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\ProfilePage.baml
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\RegisterPage.baml
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Pages\SettingsPage.baml
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\UserControlers\TableUC.baml
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Windows\MainWindow.baml
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\Views\Windows\OpenProjectWindow.baml
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.g.resources
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.AssemblyInfoInputs.cache
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.AssemblyInfo.cs
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.csproj.CoreCompileInputs.cache
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.csproj.CopyComplete
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\refint\KiviSqlModeler.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.pdb
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\KiviSqlModeler.genruntimeconfig.cache
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\ref\KiviSqlModeler.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\CommunityToolkit.Mvvm.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Hosting.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.Console.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Options.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Microsoft.Extensions.Primitives.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Newtonsoft.Json.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\RestSharp.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.Encodings.Web.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\System.Text.Json.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Debug\net6.0-windows\win-x64\Wpf.Ui.dll

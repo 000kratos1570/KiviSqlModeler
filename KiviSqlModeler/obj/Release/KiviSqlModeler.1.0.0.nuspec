@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>KiviSqlModeler</id>
+    <version>1.0.0</version>
+    <authors>KiviSqlModeler</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="CommunityToolkit.Mvvm" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting" version="6.0.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="RestSharp" version="110.2.0" exclude="Build,Analyzers" />
+        <dependency id="WPF-UI" version="2.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/kivsqlmodeler.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Release\net6.0-windows\win-x64\KiviSqlModeler.runtimeconfig.json" target="lib\net6.0-windows7.0\KiviSqlModeler.runtimeconfig.json" />
+    <file src="D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Release\net6.0-windows\win-x64\KiviSqlModeler.dll" target="lib\net6.0-windows7.0\KiviSqlModeler.dll" />
+    <file src="D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\kivsqlmodeler.ico" target="content\kivsqlmodeler.ico" />
+    <file src="D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\kivsqlmodeler.ico" target="contentFiles\any\net6.0-windows7.0\kivsqlmodeler.ico" />
+  </files>
+</package>

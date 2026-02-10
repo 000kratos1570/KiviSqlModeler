@@ -15,7 +15,6 @@ namespace KiviSqlModeler.Models
             pk, fk, pkfk, none
         };
 
-        
         public enum isNull { Null, NotNull };
 
         public string Name { get; set; }

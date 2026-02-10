@@ -1,0 +1,2 @@
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Release\net6.0-windows\publish\KiviSqlModeler.pdb
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Release\net6.0-windows\publish\KiviSqlModeler.exe

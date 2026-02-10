@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\timof\\source\\repos\\KiviSqlModeler\\KiviSqlModeler\\KiviSqlModeler.csproj": {}
+    "C:\\Практические и лекции\\Диплом\\KiviSqlModeler\\KiviSqlModeler\\KiviSqlModeler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\timof\\source\\repos\\KiviSqlModeler\\KiviSqlModeler\\KiviSqlModeler.csproj": {
+    "C:\\Практические и лекции\\Диплом\\KiviSqlModeler\\KiviSqlModeler\\KiviSqlModeler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\timof\\source\\repos\\KiviSqlModeler\\KiviSqlModeler\\KiviSqlModeler.csproj",
+        "projectUniqueName": "C:\\Практические и лекции\\Диплом\\KiviSqlModeler\\KiviSqlModeler\\KiviSqlModeler.csproj",
         "projectName": "KiviSqlModeler",
-        "projectPath": "C:\\Users\\timof\\source\\repos\\KiviSqlModeler\\KiviSqlModeler\\KiviSqlModeler.csproj",
+        "projectPath": "C:\\Практические и лекции\\Диплом\\KiviSqlModeler\\KiviSqlModeler\\KiviSqlModeler.csproj",
         "packagesPath": "C:\\Users\\timof\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\timof\\source\\repos\\KiviSqlModeler\\KiviSqlModeler\\obj\\",
+        "outputPath": "C:\\Практические и лекции\\Диплом\\KiviSqlModeler\\KiviSqlModeler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0-windows7.0": {
@@ -51,6 +57,26 @@
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
               "version": "[6.0.1, )"
+            },
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
             },
             "WPF-UI": {
               "target": "Package",
@@ -76,7 +102,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

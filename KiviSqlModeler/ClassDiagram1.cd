@@ -1,2 +1,210 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KiviSqlModeler.Views.Pages.ProfileView">
+    <Position X="0.5" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAIAAAAAAAACAAAACAAAAgA=</HashCode>
+      <FileName>Views\Pages\AdminPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KiviSqlModeler.Views.Pages.AdminPage" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAABAAAAAAAAAAAAAAAwAEAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Views\Pages\AdminPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KiviSqlModeler.Views.Pages.AuthPage" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\Pages\AuthPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KiviSqlModeler.Views.Pages.DashboardPage" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBCQBIAwgBDkNiAQIQAaAEAECQQQKhCEoBkUAgIFAAA=</HashCode>
+      <FileName>Views\Pages\DashboardPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KiviSqlModeler.Views.Pages.DataPage" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAIAAEAAAAACAAAIAAiAACAAAAA=</HashCode>
+      <FileName>Views\Pages\DataPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KiviSqlModeler.Views.Pages.MainProfilePage" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\Pages\MainProfilePage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KiviSqlModeler.Views.Pages.ProfilePage" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAABAAAAAAAAAIAAAAAgAEAAAAAAAAAAAAgAAI=</HashCode>
+      <FileName>Views\Pages\ProfilePage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KiviSqlModeler.Views.Pages.RegisterPage" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\Pages\RegisterPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KiviSqlModeler.Views.Pages.SettingsPage" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\Pages\SettingsPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KiviSqlModeler.Views.UserControlers.TableUC" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACgAAAAAAAAAAgIAAAAAABAAAAAAAAAAAUAAgAAAA=</HashCode>
+      <FileName>Views\UserControlers\TableUC.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KiviSqlModeler.Views.Windows.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAEAAAAAAAAAAAgAACAAgAEAAAAIAAAAAQAABAAAA=</HashCode>
+      <FileName>Views\Windows\MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KiviSqlModeler.Views.Windows.OpenProjectWindow" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAgAAAAAAABAAAAAAAAgA=</HashCode>
+      <FileName>Views\Windows\OpenProjectWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KiviSqlModeler.ViewModels.MainWindowViewModel">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAQAAAAAAAAAAAAAAAAAAAIAAAAAARAgAAAAAA=</HashCode>
+      <FileName>ViewModels\MainWindowViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KiviSqlModeler.ViewModels.SettingsViewModel" BaseTypeListCollapsed="true">
+    <Position X="4" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAQAAAAAAAAAAAAAAQAAAAIAAQAAAAAQQAAABA=</HashCode>
+      <FileName>ViewModels\SettingsViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KiviSqlModeler.Models.DataModels.DolgnostEntity">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAgA=</HashCode>
+      <FileName>Models\DataModels\DolgnostEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KiviSqlModeler.Models.DataModels.MyTables">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\DataModels\MyTables.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KiviSqlModeler.Models.DataModels.Profile">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAIAAAAAAAACAAAAAAAAAgA=</HashCode>
+      <FileName>Models\DataModels\Profile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KiviSqlModeler.Models.DataModels.ProfileProject">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAggA=</HashCode>
+      <FileName>Models\DataModels\ProfileProject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KiviSqlModeler.Models.DataModels.Project">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAACAAAAAAAABAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\DataModels\Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KiviSqlModeler.Models.AuthProfile">
+    <Position X="0.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAgAAAAAAAAAAAAAAQAACAUAAAAE=</HashCode>
+      <FileName>Models\AuthProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KiviSqlModeler.Models.ColumnModel">
+    <Position X="0.5" Y="11.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="KiviSqlModeler.Models.ColumnModel.PKFK" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\ColumnModel.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="KiviSqlModeler.Models.ColumnModel.isNull" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\ColumnModel.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAQAAAAAAAAYAQAAAAAAAgA=</HashCode>
+      <FileName>Models\ColumnModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KiviSqlModeler.Models.ConnectionModel">
+    <Position X="7.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAAiAgAAQIIAAAAAAAAABAAAAAAEAAARAAAAAAA=</HashCode>
+      <FileName>Models\ConnectionModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KiviSqlModeler.Models.DataKivModel">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAACAAABQIBAAAAAAAAABAAAAAEAAAARAAgAAAA=</HashCode>
+      <FileName>Models\DataKivModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KiviSqlModeler.Models.MyApi">
+    <Position X="5.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAABIAAAAAAAAAAAAEIAAAAAIAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\MyApi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KiviSqlModeler.Models.TableModel">
+    <Position X="5.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAIAAAACAAAAAgAAAA=</HashCode>
+      <FileName>Models\TableModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="KiviSqlModeler.Models.ShapeEnum">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAAAgAAAAAAAA=</HashCode>
+      <FileName>Models\ConnectionModel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

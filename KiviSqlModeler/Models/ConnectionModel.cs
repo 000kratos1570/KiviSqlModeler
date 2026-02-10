@@ -10,7 +10,7 @@ using System.Xml.Linq;
 
 namespace KiviSqlModeler.Models
 {
-    internal class ConnectionModel
+    public class ConnectionModel
     {
         public TableUC Source { get; set; }
         public TableUC Destination { get; set; }
@@ -18,13 +18,24 @@ namespace KiviSqlModeler.Models
         public Path? ShapePath { get; set; }
         public ShapeEnum Shape { get; set; }
         public bool Dashed { get; set; }
-        //public bool Fill { get; set; }
-
+        //public bool Fill { get; set; } 
+        /// <summary>
+        /// Индекс таблицы в канвасе.
+        /// </summary>
         public int CIndexCanvasTable { get; set; }
+        /// <summary>
+        /// Индекс таблицы в канвасе
+        /// </summary>
         public int DIndexCanvasTable { get; set; }
-        public int SourceTable { get; set; }
+        /// <summary>
+        /// Индекс таблицы в коллекции
+        /// </summary>
+        public int SourceTable { get; set; } 
         public int SourceColumn { get; set; }
-        public int DestinationTable { get; set; }
+        /// <summary>
+        /// Индекс таблицы в коллекции
+        /// </summary>
+        public int DestinationTable { get; set; }  
         public int DestinationColumn { get; set; }
     }
 

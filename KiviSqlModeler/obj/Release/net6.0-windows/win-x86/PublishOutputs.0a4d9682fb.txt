@@ -1,0 +1,7 @@
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Release\net6.0-windows\publish\KiviSqlModeler.pdb
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Release\net6.0-windows\publish\D3DCompiler_47_cor3.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Release\net6.0-windows\publish\PenImc_cor3.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Release\net6.0-windows\publish\PresentationNative_cor3.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Release\net6.0-windows\publish\vcruntime140_cor3.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Release\net6.0-windows\publish\wpfgfx_cor3.dll
+D:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\bin\Release\net6.0-windows\publish\KiviSqlModeler.exe

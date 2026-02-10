@@ -1,0 +1,574 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\pages\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\pages\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\pages\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\pages\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\pages\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\pages\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\pages\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\pages\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\windows\\openprojectwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\windows\\openprojectwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\windows\\openprojectwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\windows\\openprojectwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\pages\\mainprofilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\pages\\mainprofilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\pages\\datapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\pages\\datapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\pages\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\pages\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\usercontrolers\\tableuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\usercontrolers\\tableuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\pages\\datapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\pages\\datapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\models\\datakivmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\models\\datakivmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\models\\myapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\models\\myapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\models\\columnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\models\\columnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\models\\connectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\models\\connectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\models\\tablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\models\\tablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\usercontrolers\\tableuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\usercontrolers\\tableuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\models\\datamodels\\profileproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\models\\datamodels\\profileproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\models\\datamodels\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\models\\datamodels\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\models\\datamodels\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\models\\datamodels\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\models\\datamodels\\dolgnostentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\models\\datamodels\\dolgnostentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\models\\datamodels\\mytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\models\\datamodels\\mytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\models\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\models\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\pages\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\pages\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\pages\\mainprofilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\pages\\mainprofilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0434\u0438\u043F\u043B\u043E\u043C\\kivisqlmodeler\\kivisqlmodeler\\views\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3B674-CB4B-4D10-96B4-6A34E1442FB2}|KiviSqlModeler\\KiviSqlModeler.csproj|solutionrelative:kivisqlmodeler\\views\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthPage.xaml",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\AuthPage.xaml",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Pages\\AuthPage.xaml",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\AuthPage.xaml",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Pages\\AuthPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T10:53:05.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\AdminPage.xaml.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Pages\\AdminPage.xaml.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\AdminPage.xaml.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Pages\\AdminPage.xaml.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAAAJcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:05.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\AuthPage.xaml.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Pages\\AuthPage.xaml.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\AuthPage.xaml.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Pages\\AuthPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAtwCUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:08.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\RegisterPage.xaml.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Pages\\RegisterPage.xaml.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\RegisterPage.xaml.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Pages\\RegisterPage.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADUAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Pages\\ProfilePage.xaml",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\ProfilePage.xaml",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Pages\\ProfilePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T10:53:09.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Pages\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Pages\\ProfilePage.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAK4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Pages\\RegisterPage.xaml",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\RegisterPage.xaml",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Pages\\RegisterPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T10:53:09.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T10:53:09.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OpenProjectWindow.xaml",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Windows\\OpenProjectWindow.xaml",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Windows\\OpenProjectWindow.xaml",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Windows\\OpenProjectWindow.xaml",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Windows\\OpenProjectWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T10:53:09.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataPage.xaml",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\DataPage.xaml",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Pages\\DataPage.xaml",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\DataPage.xaml",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Pages\\DataPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T10:53:09.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminPage.xaml",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\AdminPage.xaml",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Pages\\AdminPage.xaml",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\AdminPage.xaml",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Pages\\AdminPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T10:53:09.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainProfilePage.xaml",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\MainProfilePage.xaml",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Pages\\MainProfilePage.xaml",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\MainProfilePage.xaml",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Pages\\MainProfilePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T10:53:09.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\DashboardPage.xaml.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Pages\\DashboardPage.xaml.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\DashboardPage.xaml.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Pages\\DashboardPage.xaml.cs",
+              "ViewState": "AQIAAA0DAAAAAAAAAAAAABQDAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardPage.xaml",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\DashboardPage.xaml",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Pages\\DashboardPage.xaml",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\DashboardPage.xaml",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Pages\\DashboardPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T10:53:09.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OpenProjectWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Windows\\OpenProjectWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Windows\\OpenProjectWindow.xaml.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Windows\\OpenProjectWindow.xaml.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Windows\\OpenProjectWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Pages\\SettingsPage.xaml",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\SettingsPage.xaml",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Pages\\SettingsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T10:53:09.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TableUC.xaml",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\UserControlers\\TableUC.xaml",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\UserControlers\\TableUC.xaml",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\UserControlers\\TableUC.xaml",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\UserControlers\\TableUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T10:53:09.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\DataPage.xaml.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Pages\\DataPage.xaml.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\DataPage.xaml.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Pages\\DataPage.xaml.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataKivModel.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\DataKivModel.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Models\\DataKivModel.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\DataKivModel.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Models\\DataKivModel.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyApi.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\MyApi.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Models\\MyApi.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\MyApi.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Models\\MyApi.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAALAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ColumnModel.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\ColumnModel.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Models\\ColumnModel.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\ColumnModel.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Models\\ColumnModel.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConnectionModel.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\ConnectionModel.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Models\\ConnectionModel.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\ConnectionModel.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Models\\ConnectionModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TableModel.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\TableModel.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Models\\TableModel.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\TableModel.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Models\\TableModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TableUC.xaml.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\UserControlers\\TableUC.xaml.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\UserControlers\\TableUC.xaml.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\UserControlers\\TableUC.xaml.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\UserControlers\\TableUC.xaml.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProfileProject.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\DataModels\\ProfileProject.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Models\\DataModels\\ProfileProject.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\DataModels\\ProfileProject.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Models\\DataModels\\ProfileProject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\DataModels\\Project.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Models\\DataModels\\Project.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\DataModels\\Project.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Models\\DataModels\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\DataModels\\Profile.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Models\\DataModels\\Profile.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\DataModels\\Profile.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Models\\DataModels\\Profile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DolgnostEntity.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\DataModels\\DolgnostEntity.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Models\\DataModels\\DolgnostEntity.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\DataModels\\DolgnostEntity.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Models\\DataModels\\DolgnostEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MyTables.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\DataModels\\MyTables.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Models\\DataModels\\MyTables.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\DataModels\\MyTables.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Models\\DataModels\\MyTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthProfile.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\AuthProfile.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Models\\AuthProfile.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Models\\AuthProfile.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Models\\AuthProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SettingsViewModel.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\ViewModels\\SettingsViewModel.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\ViewModels\\SettingsViewModel.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\ViewModels\\SettingsViewModel.cs",
+              "RelativeToolTip": "KiviSqlModeler\\ViewModels\\SettingsViewModel.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SettingsPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\SettingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Pages\\SettingsPage.xaml.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\SettingsPage.xaml.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Pages\\SettingsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MainProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\MainProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Pages\\MainProfilePage.xaml.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Pages\\MainProfilePage.xaml.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Pages\\MainProfilePage.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "KiviSqlModeler\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KiviSqlModeler\\Views\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438 \u043B\u0435\u043A\u0446\u0438\u0438\\\u0414\u0438\u043F\u043B\u043E\u043C\\KiviSqlModeler\\KiviSqlModeler\\Views\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KiviSqlModeler\\Views\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAEgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:53:09.634Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

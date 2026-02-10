@@ -49,8 +49,8 @@ namespace KiviSqlModeler
                 // Views and ViewModels
                 services.AddScoped<Views.Pages.DashboardPage>();
                 services.AddScoped<Views.Pages.DataPage>();
-                services.AddScoped<ViewModels.DataViewModel>();
                 services.AddScoped<Views.Pages.SettingsPage>();
+                services.AddScoped<Views.Pages.MainProfilePage>();
                 services.AddScoped<ViewModels.SettingsViewModel>();
 
                 // Configuration

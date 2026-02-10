@@ -10,6 +10,7 @@
            d:DesignWidth="800"
            d:Background="{DynamicResource ApplicationBackgroundBrush}"
            Foreground="{DynamicResource TextFillColorPrimaryBrush}"
+           Loaded="UiPage_Loaded"
            mc:Ignorable="d">
 
     <Grid>
@@ -20,6 +21,26 @@
         <Menu />
         <StackPanel Grid.Row="0"
                     Orientation="Horizontal">
+
+
+            <Button Name="btnOpen"
+                    Click="btnOpen_Click"
+                    Padding="0"
+                    Height="25"
+                    Width="25"
+                    Margin="10,0,0,0">
+                <ui:SymbolIcon Symbol="Open28"/>
+            </Button>
+
+            <Button Name="btnSave"
+                    Click="btnSave_Click"
+                    Padding="0"
+                    Height="25"
+                    Width="25"
+                    Margin="10,0,0,0">
+                <ui:SymbolIcon Symbol="Save28" />
+            </Button>
+
             <Button Name="btnAddTable"
                     Click="btnAddTable_Click"
                     Padding="0"
@@ -29,14 +50,14 @@
                 <ui:SymbolIcon Symbol="TableAdd28" />
             </Button>
 
-            <Button Name="btnAddRow"
-                    Click="btnAddRow_Click"
-                    Padding="0"
-                    Height="25"
-                    Width="25"
-                    Margin="10,0,0,0">
+            <ToggleButton Name="btnAddRow"
+                          Click="btnAddRow_Click"
+                          Padding="0"
+                          Height="25"
+                          Width="25"
+                          Margin="10,0,0,0">
                 <ui:SymbolIcon Symbol="ArrowBetweenUp20" />
-            </Button>
+            </ToggleButton>
 
             <ComboBox Name="cbModel"
                       SelectedIndex="0"
@@ -48,15 +69,19 @@
                 <ComboBoxItem Content="Физическая" />
             </ComboBox>
 
-            <!--Удаление таблицы без визуальных багов-->
-            <!--<Button Name="btnTrashcan"
-                    Click="btnTrashcan_Click"
-                    Padding="0"
+            <Button Name="btnOpenDB"
+                    Click="btnOpenDB_Click"
+                    Padding="6,0"
                     Height="25"
-                    Width="25"
-                    Margin="10,0,0,0">
-                <ui:SymbolIcon Symbol="Delete28"/>
-            </Button>-->
+                    Margin="10,0,0,0"
+                    Content="Ваши проекты" />
+
+            <Button Name="btnSavDB"
+                    Click="btnSavDB_Click"
+                    Padding="6,0"
+                    Height="25"
+                    Margin="10,0,0,0"
+                    Content="Сохранить в хранилище" />
         </StackPanel>
 
         <Grid Grid.Row="1"
@@ -77,8 +102,6 @@
                         MouseMove="EditPanel_MouseMove"
                         MouseWheel="EditPanel_MouseWheel"
                         Background="Transparent">
-                    <!--<ContentPresenter Content="{Binding ViewModel.EditPanel, Mode=OneWay}"/>-->
-
                 </Canvas>
             </ScrollViewer>
             <GridSplitter x:Name="MySplitter"
@@ -112,16 +135,22 @@
                                        Margin="0,90,0,0"
                                        Fill="{DynamicResource TextFillColorPrimaryBrush}" />
 
+                            <Label Content="0"
+                                   Name="lbIndexColumn"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Top"
+                                   Margin="0,95,0,0" />
+                            
                             <Label Content="Атрибут"
                                    HorizontalAlignment="Center"
                                    VerticalAlignment="Top"
-                                   Margin="0,100,0,0" />
+                                   Margin="0,110,0,0" />
 
                             <Button x:Name="btnAddColumn"
                                     Content="+"
                                     HorizontalAlignment="Center"
                                     VerticalAlignment="Top"
-                                    Margin="90,98,0,0"
+                                    Margin="90,108,0,0"
                                     BorderBrush="Transparent"
                                     Padding="5.5,0,5.5,2"
                                     Click="btnAddColumn_Click" />
@@ -130,7 +159,7 @@
                                     Content=">"
                                     HorizontalAlignment="Center"
                                     VerticalAlignment="Top"
-                                    Margin="145,98,0,0"
+                                    Margin="145,108,0,0"
                                     BorderBrush="Transparent"
                                     Padding="5.5,0,5.5,2"
                                     Click="btnNextColumn_Click" />
@@ -139,7 +168,7 @@
                                     Content="-"
                                     HorizontalAlignment="Center"
                                     VerticalAlignment="Top"
-                                    Margin="0,98,90,0"
+                                    Margin="0,108,90,0"
                                     BorderBrush="Transparent"
                                     Padding="7,0,7,2"
                                     Click="btnRemoveColumn_Click" />
@@ -148,35 +177,35 @@
                                     Content="&lt;"
                                     HorizontalAlignment="Center"
                                     VerticalAlignment="Top"
-                                    Margin="0,98,145,0"
+                                    Margin="0,108,145,0"
                                     BorderBrush="Transparent"
                                     Padding="5.5,0,5.5,2"
                                     Click="btnPreviousColumn_Click" />
 
                             <ui:TextBox Name="tbColumnName"
                                         VerticalAlignment="Top"
-                                        Margin="0,130,0,0" />
+                                        Margin="0,140,0,0" />
 
                             <Label Content="Тип"
                                    HorizontalAlignment="Center"
                                    VerticalAlignment="Top"
-                                   Margin="0,180,0,0" />
+                                   Margin="0,190,0,0" />
 
                             <ui:TextBox Name="tbColumnType"
                                         VerticalAlignment="Top"
-                                        Margin="0,210,0,0" />
+                                        Margin="0,220,0,0" />
 
                             <CheckBox x:Name="cbPK"
                                       Content="ПК"
                                       HorizontalAlignment="Left"
                                       VerticalAlignment="Top"
-                                      Margin="10,260,0,0" />
+                                      Margin="10,270,0,0" />
 
                             <CheckBox x:Name="cbIsNull"
                                       Content="IsNull"
                                       HorizontalAlignment="Right"
                                       VerticalAlignment="Top"
-                                      Margin="0,260,10,0" />
+                                      Margin="0,270,10,0" />
 
                         </Grid>
                     </ScrollViewer>

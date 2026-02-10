@@ -1,0 +1,48 @@
+﻿<ui:UiPage x:Class="KiviSqlModeler.Views.Pages.AuthPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:KiviSqlModeler.Views.Pages"
+      xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AuthPage"
+      d:Background="{DynamicResource ApplicationBackgroundBrush}"
+      Foreground="{DynamicResource TextFillColorPrimaryBrush}">
+
+    <Grid>
+        <Label Content="Авторизация"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Top"
+               Margin="0,100,0,0" />
+
+        <ui:TextBox x:Name="tbEmail"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Margin="0,150,0,0"
+                    MinWidth="200"
+                    PlaceholderText="Почта" />
+
+        <ui:TextBox x:Name="tbPassword"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Margin="0,200,0,0"
+                    MinWidth="200"
+                    PlaceholderText="Пароль" />
+
+        <Button x:Name="btnLogIn"
+                Content="Войти"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Margin="0,250,0,0"
+                Click="btnLogIn_Click" />
+
+        <ui:Hyperlink x:Name="linkRegistration"
+                      Content="Зарегистрироваться"
+                      HorizontalAlignment="Center"
+                      VerticalAlignment="Top"
+                      Margin="0,290,30,0"
+                      Click="linkRegistration_Click" />
+    </Grid>
+</ui:UiPage>

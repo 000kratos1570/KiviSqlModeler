@@ -1,0 +1,2 @@
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Release\net6.0-windows\publish\KiviSqlModeler.pdb
+C:\Users\timof\source\repos\KiviSqlModeler\KiviSqlModeler\bin\Release\net6.0-windows\publish\KiviSqlModeler.exe

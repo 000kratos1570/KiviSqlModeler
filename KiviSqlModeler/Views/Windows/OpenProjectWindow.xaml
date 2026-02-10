@@ -1,0 +1,34 @@
+﻿<ui:UiWindow x:Class="KiviSqlModeler.Views.Windows.OpenProjectWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:KiviSqlModeler.Views.Windows"
+             xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+             d:Background="{DynamicResource ApplicationBackgroundBrush}"
+             Foreground="{DynamicResource TextFillColorPrimaryBrush}"
+             mc:Ignorable="d"
+        Title="OpenProjectWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="dgProject"
+                  CanUserAddRows="False"
+                  Margin="20,20,20,100"
+                  AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Названние"
+                                    Binding="{Binding ProjectName}"
+                                    Width="2*" />
+                <DataGridTextColumn Header="Дата изменения"
+                                    Binding="{Binding LastDate}"
+                                    Width="1*" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <ui:Button x:Name="btnProject"
+                    Content="Выбрать"
+                    VerticalAlignment="Bottom"
+                    HorizontalAlignment="Center"
+                    Margin="0,0,0,50"
+                   Click="btnProject_Click" />
+    </Grid>
+</ui:UiWindow>
