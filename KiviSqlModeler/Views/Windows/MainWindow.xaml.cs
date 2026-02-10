@@ -59,5 +59,15 @@ namespace KiviSqlModeler.Views.Windows
             // Make sure that closing this window will begin the process of closing the application.
             Application.Current.Shutdown();
         }
+
+        private void UiWindow_Loaded(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void UiWindow_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+
+        }
     }
 }

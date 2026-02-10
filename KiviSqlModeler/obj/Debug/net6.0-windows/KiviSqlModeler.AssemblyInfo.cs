@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KiviSqlModeler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d835b1b45aa01ffda5730a0d1112a0b5844042dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("KiviSqlModeler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KiviSqlModeler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

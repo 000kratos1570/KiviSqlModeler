@@ -29,7 +29,7 @@ namespace KiviSqlModeler.ViewModels
         private void InitializeViewModel()
         {
             CurrentTheme = Wpf.Ui.Appearance.Theme.GetAppTheme();
-            AppVersion = $"KiviSqlModeler - {GetAssemblyVersion()}";
+            AppVersion = $"КивБД-Архитектор - {GetAssemblyVersion()}";
 
             _isInitialized = true;
         }

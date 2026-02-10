@@ -1,0 +1,20 @@
+﻿KiviSqlModeler
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\obj\Debug\net6.0-windows\win-x64\
+KiviSqlModeler
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Практические и лекции\Диплом\KiviSqlModeler\KiviSqlModeler\App.xaml
+11-699269482
+1-1662688382
+3327844200
+224-2010180772
+Views\Pages\AdminPage.xaml;Views\Pages\AuthPage.xaml;Views\Pages\DashboardPage.xaml;Views\Pages\DataPage.xaml;Views\Pages\MainProfilePage.xaml;Views\Pages\ProfilePage.xaml;Views\Pages\RegisterPage.xaml;Views\Pages\SettingsPage.xaml;Views\UserControlers\TableUC.xaml;Views\Windows\MainWindow.xaml;Views\Windows\OpenProjectWindow.xaml;
+assets\kivsqlmodeler.png
+False
+
